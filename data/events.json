@@ -30,6 +30,14 @@
         "name": "BBC",
         "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.reuters.com/pictures/satellite-images-show-scope-iran-strikes-2026-03-17/",
+        "source": "Airbus Pléiades Neo",
+        "captureDate": "2026-02-28",
+        "description": "Black smoke rising and heavy damage at Khamenei's compound in Tehran"
+      }
     ]
   },
   {
@@ -79,6 +87,20 @@
       {
         "name": "NYT",
         "url": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-retaliatory-strikes-region.html"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.reuters.com/pictures/satellite-images-show-scope-iran-strikes-2026-03-17/",
+        "source": "Vantor",
+        "captureDate": "2026-03-08",
+        "description": "Destroyed buildings at Isfahan airport"
+      },
+      {
+        "url": "https://www.reuters.com/pictures/satellite-images-show-scope-iran-strikes-2026-03-17/",
+        "source": "Vantor",
+        "captureDate": "2026-03-08",
+        "description": "Damaged buildings at Isfahan military garrison"
       }
     ]
   },
@@ -133,6 +155,14 @@
       {
         "name": "BBC",
         "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://apnews.com/article/iran-us-war-satellite-photos-damage-uae-bahrain-4b5edabf4c8cc89a56150ca4f1b7c06f",
+        "source": "Planet Labs PBC",
+        "captureDate": "2026-03-02",
+        "description": "Ships ablaze at Bandar Abbas port after US military attack"
       }
     ]
   },
@@ -196,6 +226,20 @@
         "name": "NYT",
         "url": "https://www.nytimes.com/2026/03/01/world/middleeast/iran-attacks-dubai-persian-gulf-countries-retaliation.html"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://apnews.com/article/iran-us-war-satellite-photos-damage-uae-bahrain-4b5edabf4c8cc89a56150ca4f1b7c06f",
+        "source": "Planet Labs PBC",
+        "captureDate": "2026-03-01",
+        "description": "Major building destroyed and two radomes hit at US 5th Fleet HQ in Bahrain"
+      },
+      {
+        "url": "https://apnews.com/article/iran-us-war-satellite-photos-damage-uae-bahrain-4b5edabf4c8cc89a56150ca4f1b7c06f",
+        "source": "Planet Labs PBC",
+        "captureDate": "2026-03-06",
+        "description": "Additional building damage at US 5th Fleet HQ in Bahrain"
+      }
     ]
   },
   {
@@ -253,6 +297,14 @@
       {
         "name": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/2/28/multiple-gulf-arab-states-that-host-us-assets-targeted-in-iran-retaliation"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://apnews.com/article/iran-us-war-satellite-photos-damage-uae-bahrain-4b5edabf4c8cc89a56150ca4f1b7c06f",
+        "source": "Airbus Pléiades Neo",
+        "captureDate": "2026-03-15",
+        "description": "Hangar damage at Al Dhafra Air Base; one hangar shredded by fire, adjacent hangar with roof damage"
       }
     ]
   },
@@ -383,6 +435,14 @@
         "name": "CNN",
         "url": "https://www.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.reuters.com/pictures/satellite-images-show-scope-iran-strikes-2026-03-17/",
+        "source": "Vantor",
+        "captureDate": "2026-03-02",
+        "description": "Destroyed buildings and equipment at Choqa Baulk-e Alireza drone base"
+      }
     ]
   },
   {
@@ -498,6 +558,14 @@
       {
         "name": "TIME",
         "url": "https://time.com/7381884/iran-missiles-dubai-palm-gulf/"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.timesofisrael.com/newly-released-satellite-images-show-damage-dealt-in-iran-war-across-middle-east/",
+        "source": "Planet Labs PBC",
+        "captureDate": "2026-03-03",
+        "description": "Damage to two large hangar-like buildings at French Camp de la Paix naval base in Abu Dhabi"
       }
     ]
   },
@@ -890,6 +958,14 @@
         "name": "Reuters",
         "url": "https://www.reuters.com/business/aerospace-defense/israel-us-launch-strikes-iran-2026-02-28/"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.reuters.com/pictures/satellite-images-show-scope-iran-strikes-2026-03-17/",
+        "source": "Vantor",
+        "captureDate": "2026-03-07",
+        "description": "Large crater on bunkered storage area at Bushehr airbase"
+      }
     ]
   },
   {
@@ -918,6 +994,26 @@
       {
         "name": "Military.com",
         "url": "https://www.military.com/daily-news/investigations-and-features/2026/03/04/quiet-death-us-submarine-sinks-iranian-frigate-first-torpedo-kill-wwii.html"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.reuters.com/pictures/satellite-images-show-scope-iran-strikes-2026-03-17/",
+        "source": "Vantor",
+        "captureDate": "2026-03-01",
+        "description": "Destroyed storage bunkers at Konarak Naval Base after US and Israeli strikes"
+      },
+      {
+        "url": "https://www.reuters.com/pictures/satellite-images-show-scope-iran-strikes-2026-03-17/",
+        "source": "Vantor",
+        "captureDate": "2026-03-01",
+        "description": "Destroyed aircraft shelters at Konarak Naval Base"
+      },
+      {
+        "url": "https://www.reuters.com/pictures/satellite-images-show-scope-iran-strikes-2026-03-17/",
+        "source": "Vantor",
+        "captureDate": "2026-03-04",
+        "description": "Capsized ship at Konarak Naval Base"
       }
     ]
   },
@@ -1127,6 +1223,14 @@
         "name": "PBS",
         "url": "https://www.pbs.org/newshour/show/irans-new-supreme-leader-vows-continued-retaliation-across-gulf-and-oil-routes"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.reuters.com/pictures/satellite-images-show-scope-iran-strikes-2026-03-17/",
+        "source": "Vantor",
+        "captureDate": "2026-03-02",
+        "description": "Smoke rising from Ras Tanura oil refinery after drone attack"
+      }
     ]
   },
   {
@@ -1314,6 +1418,14 @@
       {
         "name": "Guardian",
         "url": "https://www.theguardian.com/global-development/2026/mar/02/civilian-deaths-in-iran-pass-200-amid-fear-of-bombs-and-regime-clampdown"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.cbsnews.com/news/iran-war-satellite-companies-curb-access-mideast-imagery/",
+        "source": "Planet Labs PBC",
+        "captureDate": "2026-02-28",
+        "description": "Before/after imagery showing damage to girls' school and adjacent IRGC Navy compound in Minab"
       }
     ]
   },
@@ -1881,6 +1993,14 @@
         "name": "Wikipedia Timeline",
         "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Iran_war"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://apnews.com/article/iran-us-war-satellite-photos-damage-uae-bahrain-4b5edabf4c8cc89a56150ca4f1b7c06f",
+        "source": "USGS Landsat",
+        "captureDate": "2026-03-16",
+        "description": "Fire at Port of Salalah days after suspected Iranian drone attack"
+      }
     ]
   },
   {
@@ -2116,6 +2236,14 @@
         "name": "ISW",
         "url": "https://understandingwar.org/research/middle-east/iran-update-morning-special-report-march-13-2026/"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.reuters.com/pictures/satellite-images-show-scope-iran-strikes-2026-03-17/",
+        "source": "Vantor",
+        "captureDate": "2026-03-08",
+        "description": "Damage at Ahvaz drone base in Khuzestan Province"
+      }
     ]
   },
   {
@@ -2220,6 +2348,14 @@
       {
         "name": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/3/14/iran-continues-intensified-attacks-across-gulf-in-us-israel-war-fallout"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.reuters.com/pictures/satellite-images-show-scope-iran-strikes-2026-03-17/",
+        "source": "NASA Worldview",
+        "captureDate": "2026-03-15",
+        "description": "Smoke rising from Fujairah port, outlet for ~1 million bpd of UAE crude"
       }
     ]
   },
@@ -2580,6 +2716,14 @@
       {
         "name": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/liveblog/2026/3/16/iran-war-live-tehran-rejects-trump-claim-on-talks-gulf-attacks-continue"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://apnews.com/article/iran-us-war-satellite-photos-damage-uae-bahrain-4b5edabf4c8cc89a56150ca4f1b7c06f",
+        "source": "USGS Landsat",
+        "captureDate": "2026-03-16",
+        "description": "Fire at Dubai International Airport after Iranian drone strike set fuel tanker ablaze"
       }
     ]
   },
@@ -3316,6 +3460,14 @@
         "name": "Alma Center",
         "url": "https://israel-alma.org/daily-report-the-second-iran-war-march-20-2026-1600/"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://apnews.com/article/iran-us-war-satellite-photos-damage-uae-bahrain-4b5edabf4c8cc89a56150ca4f1b7c06f",
+        "source": "Planet Labs PBC",
+        "captureDate": "2026-03-06",
+        "description": "Damaged buildings at Parchin military base outside Tehran, linked to ballistic missile program"
+      }
     ]
   },
   {
@@ -3717,6 +3869,14 @@
         "name": "NYT",
         "url": "https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump",
+        "source": "CENTCOM",
+        "captureDate": "2026-03-22",
+        "description": "CENTCOM published satellite imagery showing extensive damage at Khojir Aerospace Complex missile assembly facility"
+      }
     ]
   },
   {
@@ -3758,6 +3918,14 @@
       {
         "name": "ISW",
         "url": "https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-22-2026/"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.reuters.com/pictures/satellite-images-show-scope-iran-strikes-2026-03-17/",
+        "source": "Vantor",
+        "captureDate": "2026-03-08",
+        "description": "Destroyed buildings at Isfahan airport area, later struck again"
       }
     ]
   },
