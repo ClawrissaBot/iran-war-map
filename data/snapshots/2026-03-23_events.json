@@ -11,7 +11,7 @@
     "tn": "Khamenei Compound",
     "dmg": 100,
     "cas": 50,
-    "dl": "DESTROYED — Leadership decapitated",
+    "dl": "DESTROYED \u2014 Leadership decapitated",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -44,7 +44,7 @@
     "tn": "Bushehr Complex",
     "dmg": 20,
     "cas": 30,
-    "dl": "MODERATE — Port facilities damaged",
+    "dl": "MODERATE \u2014 Port facilities damaged",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -69,7 +69,7 @@
     "tn": "Isfahan IRGC Bases",
     "dmg": 45,
     "cas": 800,
-    "dl": "HEAVY — Multiple bases wrecked",
+    "dl": "HEAVY \u2014 Multiple bases wrecked",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -94,7 +94,7 @@
     "tn": "Iran Cyber Infrastructure",
     "dmg": 80,
     "cas": 0,
-    "dl": "CRITICAL — 96% connectivity loss",
+    "dl": "CRITICAL \u2014 96% connectivity loss",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -123,7 +123,7 @@
     "tn": "Iranian Navy",
     "dmg": 20,
     "cas": 150,
-    "dl": "MODERATE — Initial naval losses",
+    "dl": "MODERATE \u2014 Initial naval losses",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -140,7 +140,7 @@
     "date": "2026-02-28",
     "time": "afternoon",
     "side": "iran",
-    "title": "Op. True Promise IV — Israel struck",
+    "title": "Op. True Promise IV \u2014 Israel struck",
     "detail": "Hundreds of drones & ballistic missiles at Tel Aviv & Haifa.",
     "lat": 32.08,
     "lng": 34.78,
@@ -148,7 +148,7 @@
     "tn": "Israel (Tel Aviv/Haifa)",
     "dmg": 15,
     "cas": 8,
-    "dl": "MODERATE — Most intercepted",
+    "dl": "MODERATE \u2014 Most intercepted",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -181,7 +181,7 @@
     "tn": "Bahrain / 5th Fleet HQ",
     "dmg": 20,
     "cas": 3,
-    "dl": "MODERATE — Base area damaged",
+    "dl": "MODERATE \u2014 Base area damaged",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -210,7 +210,7 @@
     "tn": "Kuwait Bases & Airport",
     "dmg": 25,
     "cas": 8,
-    "dl": "HEAVY — Airport & base damaged",
+    "dl": "HEAVY \u2014 Airport & base damaged",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -239,7 +239,7 @@
     "tn": "Al Dhafra AB / Abu Dhabi",
     "dmg": 20,
     "cas": 6,
-    "dl": "MODERATE — Base operational but damaged",
+    "dl": "MODERATE \u2014 Base operational but damaged",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -268,7 +268,7 @@
     "tn": "Riyadh / E. Province",
     "dmg": 10,
     "cas": 2,
-    "dl": "LIGHT — Limited damage",
+    "dl": "LIGHT \u2014 Limited damage",
     "dc": "dmg-light",
     "sources": [
       {
@@ -293,7 +293,7 @@
     "tn": "Al Udeid Air Base",
     "dmg": 15,
     "cas": 0,
-    "dl": "MODERATE — Runway & facilities hit",
+    "dl": "MODERATE \u2014 Runway & facilities hit",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -322,7 +322,7 @@
     "tn": "Erbil Airport/Consulate",
     "dmg": 20,
     "cas": 2,
-    "dl": "MODERATE — Airport damaged",
+    "dl": "MODERATE \u2014 Airport damaged",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -347,7 +347,7 @@
     "tn": "Jordan US Facilities",
     "dmg": 10,
     "cas": 0,
-    "dl": "LIGHT — 19 wounded",
+    "dl": "LIGHT \u2014 19 wounded",
     "dc": "dmg-light",
     "sources": [
       {
@@ -372,7 +372,7 @@
     "tn": "Iran Deep Military Sites",
     "dmg": 30,
     "cas": 200,
-    "dl": "HEAVY — Deeper penetration strikes",
+    "dl": "HEAVY \u2014 Deeper penetration strikes",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -397,7 +397,7 @@
     "tn": "Gulf States (multiple)",
     "dmg": 15,
     "cas": 12,
-    "dl": "MODERATE — Widespread but dispersed",
+    "dl": "MODERATE \u2014 Widespread but dispersed",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -426,7 +426,7 @@
     "tn": "Gulf Shipping Lanes",
     "dmg": 30,
     "cas": 0,
-    "dl": "HEAVY — 2 tankers hit",
+    "dl": "HEAVY \u2014 2 tankers hit",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -451,7 +451,7 @@
     "tn": "Strait of Hormuz",
     "dmg": 90,
     "cas": 0,
-    "dl": "CRITICAL — Global choke point shut",
+    "dl": "CRITICAL \u2014 Global choke point shut",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -488,7 +488,7 @@
     "tn": "Al Dhafra AB / Abu Dhabi",
     "dmg": 15,
     "cas": 3,
-    "dl": "MODERATE — Cumulative damage rising",
+    "dl": "MODERATE \u2014 Cumulative damage rising",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -505,7 +505,7 @@
     "date": "2026-03-02",
     "time": "morning",
     "side": "iran",
-    "title": "Doha struck — 2 Su-24s shot down",
+    "title": "Doha struck \u2014 2 Su-24s shot down",
     "detail": "Qatar first nation to down Iranian aircraft.",
     "lat": 25.2854,
     "lng": 51.531,
@@ -513,7 +513,7 @@
     "tn": "Doha, Qatar",
     "dmg": 10,
     "cas": 0,
-    "dl": "LIGHT — Iran loses 2 jets",
+    "dl": "LIGHT \u2014 Iran loses 2 jets",
     "dc": "dmg-light",
     "sources": [
       {
@@ -538,7 +538,7 @@
     "tn": "Israel (Tel Aviv/Haifa)",
     "dmg": 10,
     "cas": 4,
-    "dl": "MODERATE — Southern Israel hit",
+    "dl": "MODERATE \u2014 Southern Israel hit",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -559,7 +559,7 @@
     "tn": "Kuwait Bases & Airport",
     "dmg": 10,
     "cas": 0,
-    "dl": "MODERATE — Embassy shuttered",
+    "dl": "MODERATE \u2014 Embassy shuttered",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -584,7 +584,7 @@
     "tn": "Gulf Shipping Lanes",
     "dmg": 20,
     "cas": 0,
-    "dl": "HEAVY — 4 tankers total",
+    "dl": "HEAVY \u2014 4 tankers total",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -609,7 +609,7 @@
     "tn": "Natanz Nuclear Facility",
     "dmg": 70,
     "cas": 20,
-    "dl": "CRITICAL — Enrichment capacity devastated",
+    "dl": "CRITICAL \u2014 Enrichment capacity devastated",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -642,7 +642,7 @@
     "tn": "Iranian Kurdistan Cities",
     "dmg": 15,
     "cas": 30,
-    "dl": "MODERATE — Civilian areas damaged",
+    "dl": "MODERATE \u2014 Civilian areas damaged",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -663,7 +663,7 @@
     "tn": "RAF Akrotiri, Cyprus",
     "dmg": 5,
     "cas": 0,
-    "dl": "LIGHT — Escalation signal",
+    "dl": "LIGHT \u2014 Escalation signal",
     "dc": "dmg-light",
     "sources": [
       {
@@ -688,7 +688,7 @@
     "tn": "Northern Israel",
     "dmg": 20,
     "cas": 5,
-    "dl": "MODERATE — Second front opens",
+    "dl": "MODERATE \u2014 Second front opens",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -721,7 +721,7 @@
     "tn": "Lebanon (Hezb targets)",
     "dmg": 30,
     "cas": 80,
-    "dl": "HEAVY — Intel leadership killed",
+    "dl": "HEAVY \u2014 Intel leadership killed",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -750,7 +750,7 @@
     "tn": "US Bases in Iraq",
     "dmg": 15,
     "cas": 2,
-    "dl": "MODERATE — Proxy front active",
+    "dl": "MODERATE \u2014 Proxy front active",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -775,7 +775,7 @@
     "tn": "US Air Assets",
     "dmg": 40,
     "cas": 0,
-    "dl": "CRITICAL — 3 jets lost (crews survived)",
+    "dl": "CRITICAL \u2014 3 jets lost (crews survived)",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -808,7 +808,7 @@
     "tn": "Tehran Gov District",
     "dmg": 35,
     "cas": 40,
-    "dl": "CRITICAL — Command center gone",
+    "dl": "CRITICAL \u2014 Command center gone",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -833,7 +833,7 @@
     "tn": "Tehran Gov District",
     "dmg": 15,
     "cas": 10,
-    "dl": "HEAVY — Gov capacity eroding",
+    "dl": "HEAVY \u2014 Gov capacity eroding",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -854,7 +854,7 @@
     "tn": "Min Zadai Underground Nuke",
     "dmg": 80,
     "cas": 15,
-    "dl": "CRITICAL — Bunker busters, facility collapsed",
+    "dl": "CRITICAL \u2014 Bunker busters, facility collapsed",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -879,7 +879,7 @@
     "tn": "Bushehr Complex",
     "dmg": 40,
     "cas": 5,
-    "dl": "HEAVY — Airport inoperable",
+    "dl": "HEAVY \u2014 Airport inoperable",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -897,14 +897,14 @@
     "time": "daytime",
     "side": "us",
     "title": "Iranian navy devastated",
-    "detail": "Warships destroyed in Gulf of Oman. IRIS Dena sunk by US submarine torpedo — first sub kill since WWII.",
+    "detail": "Warships destroyed in Gulf of Oman. IRIS Dena sunk by US submarine torpedo \u2014 first sub kill since WWII.",
     "lat": 25.3,
     "lng": 57.8,
     "tid": "iran-navy",
     "tn": "Iranian Navy",
     "dmg": 50,
     "cas": 287,
-    "dl": "CRITICAL — IRIS Dena sunk, fleet shattered",
+    "dl": "CRITICAL \u2014 IRIS Dena sunk, fleet shattered",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -933,7 +933,7 @@
     "tn": "Tehran Cultural Sites",
     "dmg": 30,
     "cas": 0,
-    "dl": "STRATEGIC — UNESCO condemns",
+    "dl": "STRATEGIC \u2014 UNESCO condemns",
     "dc": "dmg-strategic",
     "sources": [
       {
@@ -966,7 +966,7 @@
     "tn": "Lebanon (Hezb targets)",
     "dmg": 20,
     "cas": 50,
-    "dl": "HEAVY — Ground war begins",
+    "dl": "HEAVY \u2014 Ground war begins",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -995,7 +995,7 @@
     "tn": "Tehran Gov District",
     "dmg": 10,
     "cas": 5,
-    "dl": "STRATEGIC — Senior officer eliminated",
+    "dl": "STRATEGIC \u2014 Senior officer eliminated",
     "dc": "dmg-strategic",
     "sources": [
       {
@@ -1016,7 +1016,7 @@
     "tn": "Iran Deep Military Sites",
     "dmg": 20,
     "cas": 100,
-    "dl": "HEAVY — Escalated campaign",
+    "dl": "HEAVY \u2014 Escalated campaign",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -1041,7 +1041,7 @@
     "tn": "Tehran Gov District",
     "dmg": 15,
     "cas": 30,
-    "dl": "CRITICAL — Paramilitary command gone",
+    "dl": "CRITICAL \u2014 Paramilitary command gone",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -1066,7 +1066,7 @@
     "tn": "Tehran Gov District",
     "dmg": 5,
     "cas": 10,
-    "dl": "LIGHT — Target survived",
+    "dl": "LIGHT \u2014 Target survived",
     "dc": "dmg-light",
     "sources": [
       {
@@ -1091,7 +1091,7 @@
     "tn": "Al Udeid Air Base",
     "dmg": 20,
     "cas": 2,
-    "dl": "HEAVY — Cumulative damage significant",
+    "dl": "HEAVY \u2014 Cumulative damage significant",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -1116,7 +1116,7 @@
     "tn": "Aramco Ras Tanura",
     "dmg": 40,
     "cas": 2,
-    "dl": "CRITICAL — Energy infrastructure hit",
+    "dl": "CRITICAL \u2014 Energy infrastructure hit",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -1141,7 +1141,7 @@
     "tn": "Iranian Air Force",
     "dmg": 10,
     "cas": 1,
-    "dl": "STRATEGIC — Air superiority total",
+    "dl": "STRATEGIC \u2014 Air superiority total",
     "dc": "dmg-strategic",
     "sources": [
       {
@@ -1191,7 +1191,7 @@
     "tn": "Lebanon (Hezb targets)",
     "dmg": 5,
     "cas": 10,
-    "dl": "LIGHT — Skirmishes",
+    "dl": "LIGHT \u2014 Skirmishes",
     "dc": "dmg-light",
     "sources": [
       {
@@ -1212,7 +1212,7 @@
     "tn": "Iranian Kurdistan Cities",
     "dmg": 25,
     "cas": 60,
-    "dl": "HEAVY — Widespread strikes",
+    "dl": "HEAVY \u2014 Widespread strikes",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -1233,7 +1233,7 @@
     "tn": "Azerbaijan",
     "dmg": 10,
     "cas": 0,
-    "dl": "LIGHT — 4 wounded",
+    "dl": "LIGHT \u2014 4 wounded",
     "dc": "dmg-light",
     "sources": [
       {
@@ -1254,7 +1254,7 @@
     "tn": "Ras Laffan Gas Facility",
     "dmg": 15,
     "cas": 0,
-    "dl": "MODERATE — Gas prices spike globally",
+    "dl": "MODERATE \u2014 Gas prices spike globally",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -1279,7 +1279,7 @@
     "tn": "Iranian Navy",
     "dmg": 20,
     "cas": 300,
-    "dl": "CRITICAL — Navy shattered",
+    "dl": "CRITICAL \u2014 Navy shattered",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -1308,7 +1308,7 @@
     "tn": "Minab (civilian)",
     "dmg": 30,
     "cas": 150,
-    "dl": "HEAVY — School hit, international outcry",
+    "dl": "HEAVY \u2014 School hit, international outcry",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -1329,7 +1329,7 @@
     "tn": "Israel (Tel Aviv/Haifa)",
     "dmg": 10,
     "cas": 5,
-    "dl": "MODERATE — Iron Dome strained",
+    "dl": "MODERATE \u2014 Iron Dome strained",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -1350,7 +1350,7 @@
     "tn": "Iran Civilian Toll",
     "dmg": 0,
     "cas": 0,
-    "dl": "STRATEGIC — Humanitarian crisis",
+    "dl": "STRATEGIC \u2014 Humanitarian crisis",
     "dc": "dmg-strategic",
     "sources": [
       {
@@ -1371,7 +1371,7 @@
     "tn": "US Bases (region-wide)",
     "dmg": 10,
     "cas": 3,
-    "dl": "MODERATE — Widespread but operational",
+    "dl": "MODERATE \u2014 Widespread but operational",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -1384,7 +1384,7 @@
     "date": "2026-03-12",
     "time": "ongoing",
     "side": "iran",
-    "title": "Hormuz blockade continues — oil spikes 9%",
+    "title": "Hormuz blockade continues \u2014 oil spikes 9%",
     "detail": "Mojtaba Khamenei vows Hormuz stays shut. 3 more tankers attacked.",
     "lat": 26.56,
     "lng": 56.25,
@@ -1392,7 +1392,7 @@
     "tn": "Strait of Hormuz",
     "dmg": 5,
     "cas": 0,
-    "dl": "CRITICAL — Oil >$100/barrel",
+    "dl": "CRITICAL \u2014 Oil >$100/barrel",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -1425,7 +1425,7 @@
     "tn": "Lebanon (Hezb targets)",
     "dmg": 15,
     "cas": 200,
-    "dl": "HEAVY — Ground war grinds on",
+    "dl": "HEAVY \u2014 Ground war grinds on",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -1450,7 +1450,7 @@
     "tn": "Tehran Gov District",
     "dmg": 10,
     "cas": 5,
-    "dl": "HEAVY — Sports complex leveled",
+    "dl": "HEAVY \u2014 Sports complex leveled",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -1471,7 +1471,7 @@
     "tn": "Iran Deep Military Sites",
     "dmg": 15,
     "cas": 40,
-    "dl": "HEAVY — Western Iran pounded",
+    "dl": "HEAVY \u2014 Western Iran pounded",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -1492,7 +1492,7 @@
     "tn": "Iraq Oil Infrastructure",
     "dmg": 25,
     "cas": 0,
-    "dl": "HEAVY — Foreign oil facilities on fire",
+    "dl": "HEAVY \u2014 Foreign oil facilities on fire",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -1513,7 +1513,7 @@
     "tn": "Lorestan IRGC Sites",
     "dmg": 30,
     "cas": 10,
-    "dl": "HEAVY — Intelligence site destroyed",
+    "dl": "HEAVY \u2014 Intelligence site destroyed",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -1534,7 +1534,7 @@
     "tn": "Gulf States (multiple)",
     "dmg": 10,
     "cas": 5,
-    "dl": "MODERATE — Wider campaign opens",
+    "dl": "MODERATE \u2014 Wider campaign opens",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -1547,7 +1547,7 @@
     "date": "2026-03-07",
     "time": "early morning",
     "side": "us",
-    "title": "Mehrabad Airport struck — 16 IRGC aircraft destroyed",
+    "title": "Mehrabad Airport struck \u2014 16 IRGC aircraft destroyed",
     "detail": "IDF strikes Tehran's Mehrabad International Airport, destroying 16 Quds Force aircraft. Israeli fuel storage facilities also targeted.",
     "lat": 35.6892,
     "lng": 51.3134,
@@ -1555,7 +1555,7 @@
     "tn": "Mehrabad Airport",
     "dmg": 70,
     "cas": 10,
-    "dl": "CRITICAL — 16 military aircraft destroyed",
+    "dl": "CRITICAL \u2014 16 military aircraft destroyed",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -1576,7 +1576,7 @@
     "tn": "Qeshm Island",
     "dmg": 40,
     "cas": 0,
-    "dl": "HEAVY — Civilian water supply cut",
+    "dl": "HEAVY \u2014 Civilian water supply cut",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -1597,7 +1597,7 @@
     "tn": "Strait of Hormuz",
     "dmg": 3,
     "cas": 0,
-    "dl": "MODERATE — Another tanker hit",
+    "dl": "MODERATE \u2014 Another tanker hit",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -1618,7 +1618,7 @@
     "tn": "US Naval Forces",
     "dmg": 0,
     "cas": 0,
-    "dl": "STRATEGIC — 3rd carrier group deployed",
+    "dl": "STRATEGIC \u2014 3rd carrier group deployed",
     "dc": "dmg-strategic",
     "sources": [
       {
@@ -1639,7 +1639,7 @@
     "tn": "Tehran Gov District",
     "dmg": 10,
     "cas": 20,
-    "dl": "HEAVY — Ammo depots leveled",
+    "dl": "HEAVY \u2014 Ammo depots leveled",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -1664,7 +1664,7 @@
     "tn": "Iran Oil Infrastructure",
     "dmg": 30,
     "cas": 4,
-    "dl": "HEAVY — First oil facility strikes",
+    "dl": "HEAVY \u2014 First oil facility strikes",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -1685,7 +1685,7 @@
     "tn": "Kuwait Bases & Airport",
     "dmg": 10,
     "cas": 2,
-    "dl": "MODERATE — Civilian building ablaze",
+    "dl": "MODERATE \u2014 Civilian building ablaze",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -1706,7 +1706,7 @@
     "tn": "US Bases (region-wide)",
     "dmg": 5,
     "cas": 1,
-    "dl": "STRATEGIC — US KIA rises to 7",
+    "dl": "STRATEGIC \u2014 US KIA rises to 7",
     "dc": "dmg-strategic",
     "sources": [
       {
@@ -1727,7 +1727,7 @@
     "tn": "Israel (Tel Aviv/Haifa)",
     "dmg": 5,
     "cas": 2,
-    "dl": "MODERATE — Cluster munitions used",
+    "dl": "MODERATE \u2014 Cluster munitions used",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -1740,7 +1740,7 @@
     "date": "2026-03-09",
     "time": "morning",
     "side": "iran",
-    "title": "Bahrain explosions — 32 injured",
+    "title": "Bahrain explosions \u2014 32 injured",
     "detail": "Multiple explosions in Bahrain, Kuwait, and Qatar. Drone attack near Manama injures 32 Bahrainis.",
     "lat": 26.23,
     "lng": 50.59,
@@ -1748,7 +1748,7 @@
     "tn": "Bahrain / 5th Fleet HQ",
     "dmg": 10,
     "cas": 0,
-    "dl": "MODERATE — Continued Gulf bombardment",
+    "dl": "MODERATE \u2014 Continued Gulf bombardment",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -1761,7 +1761,7 @@
     "date": "2026-03-09",
     "time": "daytime",
     "side": "iran",
-    "title": "BAPCO refinery hit — force majeure",
+    "title": "BAPCO refinery hit \u2014 force majeure",
     "detail": "Iranian attack hits Bahrain's only refinery. BAPCO declares force majeure on oil exports.",
     "lat": 26.06,
     "lng": 50.55,
@@ -1769,7 +1769,7 @@
     "tn": "Bahrain Oil Infrastructure",
     "dmg": 50,
     "cas": 0,
-    "dl": "CRITICAL — Only refinery knocked out",
+    "dl": "CRITICAL \u2014 Only refinery knocked out",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -1790,7 +1790,7 @@
     "tn": "Tehran Gov District",
     "dmg": 10,
     "cas": 5,
-    "dl": "HEAVY — R&D facility destroyed",
+    "dl": "HEAVY \u2014 R&D facility destroyed",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -1811,7 +1811,7 @@
     "tn": "UAE Oil Infrastructure",
     "dmg": 40,
     "cas": 0,
-    "dl": "CRITICAL — Major UAE refinery shut",
+    "dl": "CRITICAL \u2014 Major UAE refinery shut",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -1832,7 +1832,7 @@
     "tn": "Lebanon (Hezb targets)",
     "dmg": 5,
     "cas": 0,
-    "dl": "STRATEGIC — Massive displacement",
+    "dl": "STRATEGIC \u2014 Massive displacement",
     "dc": "dmg-strategic",
     "sources": [
       {
@@ -1853,7 +1853,7 @@
     "tn": "Strait of Hormuz",
     "dmg": 5,
     "cas": 1,
-    "dl": "HEAVY — 3 more vessels attacked",
+    "dl": "HEAVY \u2014 3 more vessels attacked",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -1874,7 +1874,7 @@
     "tn": "Oman Ports",
     "dmg": 30,
     "cas": 0,
-    "dl": "HEAVY — Port shut down",
+    "dl": "HEAVY \u2014 Port shut down",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -1887,7 +1887,7 @@
     "date": "2026-03-11",
     "time": "daytime",
     "side": "iran",
-    "title": "Dubai airport drones — 4 wounded",
+    "title": "Dubai airport drones \u2014 4 wounded",
     "detail": "Two drones fell near Dubai International Airport, wounding 4.",
     "lat": 25.25,
     "lng": 55.36,
@@ -1895,7 +1895,7 @@
     "tn": "Al Dhafra AB / Abu Dhabi",
     "dmg": 5,
     "cas": 0,
-    "dl": "LIGHT — Airport area hit",
+    "dl": "LIGHT \u2014 Airport area hit",
     "dc": "dmg-light",
     "sources": [
       {
@@ -1916,7 +1916,7 @@
     "tn": "Tehran Gov District",
     "dmg": 5,
     "cas": 10,
-    "dl": "MODERATE — Internal security targeted",
+    "dl": "MODERATE \u2014 Internal security targeted",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -1937,7 +1937,7 @@
     "tn": "Kuwait Bases & Airport",
     "dmg": 10,
     "cas": 0,
-    "dl": "MODERATE — Multiple bases hit",
+    "dl": "MODERATE \u2014 Multiple bases hit",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -1958,7 +1958,7 @@
     "tn": "Bahrain / 5th Fleet HQ",
     "dmg": 15,
     "cas": 0,
-    "dl": "HEAVY — Airport fuel on fire",
+    "dl": "HEAVY \u2014 Airport fuel on fire",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -1979,7 +1979,7 @@
     "tn": "US Bases in Iraq",
     "dmg": 10,
     "cas": 20,
-    "dl": "HEAVY — PMF leadership hit",
+    "dl": "HEAVY \u2014 PMF leadership hit",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -2000,7 +2000,7 @@
     "tn": "Israel (Tel Aviv/Haifa)",
     "dmg": 10,
     "cas": 0,
-    "dl": "HEAVY — Multi-warhead salvo, 124 injured",
+    "dl": "HEAVY \u2014 Multi-warhead salvo, 124 injured",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -2021,7 +2021,7 @@
     "tn": "Strait of Hormuz",
     "dmg": 5,
     "cas": 0,
-    "dl": "HEAVY — Iraqi oil terminals shut",
+    "dl": "HEAVY \u2014 Iraqi oil terminals shut",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -2034,7 +2034,7 @@
     "date": "2026-03-12",
     "time": "daytime",
     "side": "other",
-    "title": "KC-135 crash in Iraq — 6 crew killed",
+    "title": "KC-135 crash in Iraq \u2014 6 crew killed",
     "detail": "US Boeing KC-135 Stratotanker crashes in western Iraq, killing all 6 crew. Another KC-135 damaged, makes emergency landing.",
     "lat": 33.3,
     "lng": 43,
@@ -2042,7 +2042,7 @@
     "tn": "US Air Assets",
     "dmg": 20,
     "cas": 6,
-    "dl": "CRITICAL — Tanker lost, 6 KIA",
+    "dl": "CRITICAL \u2014 Tanker lost, 6 KIA",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -2056,14 +2056,14 @@
     "time": "daytime",
     "side": "other",
     "title": "French soldier killed in Iraq",
-    "detail": "Drone attacks Peshmerga base in Makhmur, Iraq. 6 French soldiers wounded, 1 later dies — Arnaud Frion, 7th Chasseurs Alpins.",
+    "detail": "Drone attacks Peshmerga base in Makhmur, Iraq. 6 French soldiers wounded, 1 later dies \u2014 Arnaud Frion, 7th Chasseurs Alpins.",
     "lat": 35.77,
     "lng": 43.55,
     "tid": "iraq-us",
     "tn": "US Bases in Iraq",
     "dmg": 5,
     "cas": 1,
-    "dl": "STRATEGIC — First French KIA",
+    "dl": "STRATEGIC \u2014 First French KIA",
     "dc": "dmg-strategic",
     "sources": [
       {
@@ -2076,7 +2076,7 @@
     "date": "2026-03-13",
     "time": "daytime",
     "side": "us",
-    "title": "Kharg Island struck — 90+ military targets",
+    "title": "Kharg Island struck \u2014 90+ military targets",
     "detail": "US destroys military targets on Iran's main oil hub Kharg Island. 90+ targets hit including missile/mine storage. Trump warns more if Iran continues.",
     "lat": 29.24,
     "lng": 50.33,
@@ -2084,7 +2084,7 @@
     "tn": "Kharg Island",
     "dmg": 60,
     "cas": 20,
-    "dl": "CRITICAL — Oil hub military targets destroyed",
+    "dl": "CRITICAL \u2014 Oil hub military targets destroyed",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -2109,7 +2109,7 @@
     "tn": "Khuzestan Province",
     "dmg": 30,
     "cas": 15,
-    "dl": "HEAVY — Internal security dismantled",
+    "dl": "HEAVY \u2014 Internal security dismantled",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -2130,7 +2130,7 @@
     "tn": "Tehran Gov District",
     "dmg": 5,
     "cas": 5,
-    "dl": "MODERATE — Internal security degraded",
+    "dl": "MODERATE \u2014 Internal security degraded",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -2151,7 +2151,7 @@
     "tn": "Tehran Gov District",
     "dmg": 5,
     "cas": 1,
-    "dl": "STRATEGIC — Leadership rally disrupted",
+    "dl": "STRATEGIC \u2014 Leadership rally disrupted",
     "dc": "dmg-strategic",
     "sources": [
       {
@@ -2172,7 +2172,7 @@
     "tn": "Iran Deep Military Sites",
     "dmg": 0,
     "cas": 0,
-    "dl": "STRATEGIC — Scale of campaign revealed",
+    "dl": "STRATEGIC \u2014 Scale of campaign revealed",
     "dc": "dmg-strategic",
     "sources": [
       {
@@ -2193,7 +2193,7 @@
     "tn": "Tehran Gov District",
     "dmg": 5,
     "cas": 5,
-    "dl": "MODERATE — Police infrastructure targeted",
+    "dl": "MODERATE \u2014 Police infrastructure targeted",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -2214,7 +2214,7 @@
     "tn": "UAE Oil Infrastructure",
     "dmg": 10,
     "cas": 0,
-    "dl": "MODERATE — Energy infrastructure under fire",
+    "dl": "MODERATE \u2014 Energy infrastructure under fire",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -2235,7 +2235,7 @@
     "tn": "US Air Assets",
     "dmg": 0,
     "cas": 0,
-    "dl": "STRATEGIC — US losses mounting",
+    "dl": "STRATEGIC \u2014 US losses mounting",
     "dc": "dmg-strategic",
     "sources": [
       {
@@ -2256,7 +2256,7 @@
     "tn": "Iran Deep Military Sites",
     "dmg": 0,
     "cas": 0,
-    "dl": "STRATEGIC — Pentagon escalation signal",
+    "dl": "STRATEGIC \u2014 Pentagon escalation signal",
     "dc": "dmg-strategic",
     "sources": [
       {
@@ -2269,7 +2269,7 @@
     "date": "2026-03-15",
     "time": "early morning IRST",
     "side": "us",
-    "title": "Isfahan industrial zone struck — 15 killed",
+    "title": "Isfahan industrial zone struck \u2014 15 killed",
     "detail": "US-Israeli strikes hit industrial city of Isfahan, killing at least 15 and wounding several. Extensive strikes across Isfahan area including an IRGC airbase.",
     "lat": 32.6546,
     "lng": 51.668,
@@ -2277,7 +2277,7 @@
     "tn": "Isfahan",
     "dmg": 40,
     "cas": 15,
-    "dl": "HEAVY — Factory & IRGC airbase struck",
+    "dl": "HEAVY \u2014 Factory & IRGC airbase struck",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -2302,7 +2302,7 @@
     "tn": "Iran Space Research Centre",
     "dmg": 100,
     "cas": 0,
-    "dl": "DESTROYED — Military satellite R&D facility",
+    "dl": "DESTROYED \u2014 Military satellite R&D facility",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -2327,7 +2327,7 @@
     "tn": "Hamedan",
     "dmg": 60,
     "cas": 0,
-    "dl": "HEAVY — Multiple security HQs struck",
+    "dl": "HEAVY \u2014 Multiple security HQs struck",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -2348,7 +2348,7 @@
     "tn": "Dezful Airbase",
     "dmg": 50,
     "cas": 0,
-    "dl": "HEAVY — Air force infrastructure degraded",
+    "dl": "HEAVY \u2014 Air force infrastructure degraded",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -2369,7 +2369,7 @@
     "tn": "Malard Missile Site",
     "dmg": 60,
     "cas": 0,
-    "dl": "HEAVY — Ballistic missile production targeted",
+    "dl": "HEAVY \u2014 Ballistic missile production targeted",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -2390,7 +2390,7 @@
     "tn": "Shiraz",
     "dmg": 30,
     "cas": 0,
-    "dl": "MODERATE — Residential area damaged",
+    "dl": "MODERATE \u2014 Residential area damaged",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -2403,7 +2403,7 @@
     "date": "2026-03-15",
     "time": "daytime",
     "side": "iran",
-    "title": "Iran fires Sejjil ballistic missile at Israel — first use in war",
+    "title": "Iran fires Sejjil ballistic missile at Israel \u2014 first use in war",
     "detail": "IRGC claims first wartime launch of Sejjil solid-fuel MRBM (2,000km range) at Israel. Seven missile barrages at Israel in 24hrs. Cluster munition hit apartment in Bnei Brak; missile impact in Ramla and Ramat Gan.",
     "lat": 32.0853,
     "lng": 34.7818,
@@ -2411,7 +2411,7 @@
     "tn": "Central Israel",
     "dmg": 10,
     "cas": 2,
-    "dl": "MODERATE — Sejjil debut, scattered impacts",
+    "dl": "MODERATE \u2014 Sejjil debut, scattered impacts",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -2428,7 +2428,7 @@
     "date": "2026-03-15",
     "time": "daytime",
     "side": "iran",
-    "title": "IRGC 50th wave — Gulf states hit again",
+    "title": "IRGC 50th wave \u2014 Gulf states hit again",
     "detail": "IRGC announces '50th wave' of operations against US bases in UAE, Bahrain, Kuwait. Drones hit Kuwait airport & Ali al-Salem airbase. Saudi intercepted 6 BMs & 32 drones. Missile hit Abu Dhabi, killing 1.",
     "lat": 29.2266,
     "lng": 47.9714,
@@ -2436,7 +2436,7 @@
     "tn": "Kuwait / Gulf States",
     "dmg": 15,
     "cas": 1,
-    "dl": "MODERATE — Sustained Gulf harassment continues",
+    "dl": "MODERATE \u2014 Sustained Gulf harassment continues",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -2461,7 +2461,7 @@
     "tn": "Tehran (geopolitical)",
     "dmg": 0,
     "cas": 0,
-    "dl": "STRATEGIC — Russian material support confirmed",
+    "dl": "STRATEGIC \u2014 Russian material support confirmed",
     "dc": "dmg-strategic",
     "sources": [
       {
@@ -2482,7 +2482,7 @@
     "tn": "Tehran",
     "dmg": 0,
     "cas": 1400,
-    "dl": "HUMANITARIAN — Mounting civilian toll",
+    "dl": "HUMANITARIAN \u2014 Mounting civilian toll",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -2495,7 +2495,7 @@
     "date": "2026-03-15",
     "time": "report",
     "side": "other",
-    "title": "IRGC 'calling the shots' — Mojtaba Khamenei wounded",
+    "title": "IRGC 'calling the shots' \u2014 Mojtaba Khamenei wounded",
     "detail": "CBS reports US believes IRGC is making decisions as new Supreme Leader Mojtaba Khamenei is wounded. Iran FM denies, says 'no problem' with new leader.",
     "lat": 35.6892,
     "lng": 51.389,
@@ -2503,7 +2503,7 @@
     "tn": "Tehran (leadership)",
     "dmg": 0,
     "cas": 0,
-    "dl": "STRATEGIC — Leadership uncertainty continues",
+    "dl": "STRATEGIC \u2014 Leadership uncertainty continues",
     "dc": "dmg-strategic",
     "sources": [
       {
@@ -2528,7 +2528,7 @@
     "tn": "Strait of Hormuz",
     "dmg": 0,
     "cas": 0,
-    "dl": "STRATEGIC — Hormuz diplomacy intensifies",
+    "dl": "STRATEGIC \u2014 Hormuz diplomacy intensifies",
     "dc": "dmg-strategic",
     "sources": [
       {
@@ -2553,7 +2553,7 @@
     "tn": "Tehran Province",
     "dmg": 20,
     "cas": 0,
-    "dl": "MODERATE — Humanitarian facility damaged",
+    "dl": "MODERATE \u2014 Humanitarian facility damaged",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -2574,7 +2574,7 @@
     "tn": "Dubai / Fujairah",
     "dmg": 15,
     "cas": 1,
-    "dl": "MODERATE — UAE aviation disrupted",
+    "dl": "MODERATE \u2014 UAE aviation disrupted",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -2595,7 +2595,7 @@
     "tn": "Baghdad",
     "dmg": 5,
     "cas": 0,
-    "dl": "MINOR — Intercepted proxy attacks",
+    "dl": "MINOR \u2014 Intercepted proxy attacks",
     "dc": "dmg-light",
     "sources": [
       {
@@ -2616,7 +2616,7 @@
     "tn": "Tehran area",
     "dmg": 30,
     "cas": 10,
-    "dl": "DESTROYED — Basij leadership eliminated",
+    "dl": "DESTROYED \u2014 Basij leadership eliminated",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -2641,7 +2641,7 @@
     "tn": "Tehran",
     "dmg": 25,
     "cas": 5,
-    "dl": "STRUCK — Result unclear, leadership targeted",
+    "dl": "STRUCK \u2014 Result unclear, leadership targeted",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -2666,7 +2666,7 @@
     "tn": "Tehran / Shiraz / Tabriz",
     "dmg": 40,
     "cas": 20,
-    "dl": "HEAVY — Multi-city military infrastructure struck",
+    "dl": "HEAVY \u2014 Multi-city military infrastructure struck",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -2691,7 +2691,7 @@
     "tn": "Southern Lebanon",
     "dmg": 35,
     "cas": 30,
-    "dl": "ACTIVE — Ground invasion launched",
+    "dl": "ACTIVE \u2014 Ground invasion launched",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -2720,7 +2720,7 @@
     "tn": "Beirut",
     "dmg": 30,
     "cas": 15,
-    "dl": "HEAVY — Multiple urban areas struck",
+    "dl": "HEAVY \u2014 Multiple urban areas struck",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -2741,7 +2741,7 @@
     "tn": "Baghdad Green Zone",
     "dmg": 20,
     "cas": 2,
-    "dl": "MODERATE — Embassy targeted, advisers killed",
+    "dl": "MODERATE \u2014 Embassy targeted, advisers killed",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -2766,7 +2766,7 @@
     "tn": "Abu Dhabi / Dubai / Doha",
     "dmg": 15,
     "cas": 1,
-    "dl": "MODERATE — Gulf capitals under fire",
+    "dl": "MODERATE \u2014 Gulf capitals under fire",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -2791,7 +2791,7 @@
     "tn": "South Pars Gas Field",
     "dmg": 50,
     "cas": 0,
-    "dl": "HEAVY — Energy infrastructure struck",
+    "dl": "HEAVY \u2014 Energy infrastructure struck",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -2816,7 +2816,7 @@
     "tn": "Tehran",
     "dmg": 20,
     "cas": 5,
-    "dl": "MODERATE — Intelligence chief assassinated",
+    "dl": "MODERATE \u2014 Intelligence chief assassinated",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -2841,7 +2841,7 @@
     "tn": "Ramat Gan, Tel Aviv",
     "dmg": 25,
     "cas": 2,
-    "dl": "MODERATE — Residential area struck",
+    "dl": "MODERATE \u2014 Residential area struck",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -2866,7 +2866,7 @@
     "tn": "Ras Laffan, Qatar",
     "dmg": 50,
     "cas": 0,
-    "dl": "HEAVY — Major LNG hub damaged",
+    "dl": "HEAVY \u2014 Major LNG hub damaged",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -2891,7 +2891,7 @@
     "tn": "Riyadh, Saudi Arabia",
     "dmg": 5,
     "cas": 0,
-    "dl": "MINOR — Missiles intercepted",
+    "dl": "MINOR \u2014 Missiles intercepted",
     "dc": "dmg-minor",
     "sources": [
       {
@@ -2916,7 +2916,7 @@
     "tn": "Beirut",
     "dmg": 40,
     "cas": 10,
-    "dl": "HEAVY — Central Beirut devastated",
+    "dl": "HEAVY \u2014 Central Beirut devastated",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -2937,7 +2937,7 @@
     "tn": "Bekaa Valley, Lebanon",
     "dmg": 20,
     "cas": 4,
-    "dl": "MODERATE — Residential targets struck",
+    "dl": "MODERATE \u2014 Residential targets struck",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -2958,7 +2958,7 @@
     "tn": "Adanim, Central Israel",
     "dmg": 15,
     "cas": 1,
-    "dl": "MODERATE — Cluster munitions used",
+    "dl": "MODERATE \u2014 Cluster munitions used",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -2976,14 +2976,14 @@
     "time": "afternoon",
     "side": "iran",
     "title": "Iranian missile kills 3 Palestinians in West Bank",
-    "detail": "Iranian missile attack killed at least 3 and injured several in the Israeli-occupied West Bank — the first Iranian strike to kill Palestinians in the West Bank since the war began.",
+    "detail": "Iranian missile attack killed at least 3 and injured several in the Israeli-occupied West Bank \u2014 the first Iranian strike to kill Palestinians in the West Bank since the war began.",
     "lat": 32.0,
     "lng": 35.2,
     "tid": "west-bank",
     "tn": "West Bank",
     "dmg": 15,
     "cas": 3,
-    "dl": "MODERATE — First Palestinian deaths from Iranian fire",
+    "dl": "MODERATE \u2014 First Palestinian deaths from Iranian fire",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -3004,7 +3004,7 @@
     "tn": "Bushehr Nuclear Plant",
     "dmg": 5,
     "cas": 0,
-    "dl": "MINOR — No damage reported by IAEA",
+    "dl": "MINOR \u2014 No damage reported by IAEA",
     "dc": "dmg-minor",
     "sources": [
       {
@@ -3025,7 +3025,7 @@
     "tn": "UAE (Australian Military HQ)",
     "dmg": 10,
     "cas": 0,
-    "dl": "MINOR — Near-miss on allied base",
+    "dl": "MINOR \u2014 Near-miss on allied base",
     "dc": "dmg-minor",
     "sources": [
       {
@@ -3046,7 +3046,7 @@
     "tn": "Haifa / Northern Israel",
     "dmg": 30,
     "cas": 2,
-    "dl": "MODERATE — Haifa refinery hit, cluster munitions used",
+    "dl": "MODERATE \u2014 Haifa refinery hit, cluster munitions used",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -3071,7 +3071,7 @@
     "tn": "Ras Laffan Industrial City, Qatar",
     "dmg": 80,
     "cas": 0,
-    "dl": "CRITICAL — 17% of Qatar LNG capacity destroyed",
+    "dl": "CRITICAL \u2014 17% of Qatar LNG capacity destroyed",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -3096,7 +3096,7 @@
     "tn": "Riyadh, Saudi Arabia",
     "dmg": 40,
     "cas": 0,
-    "dl": "SIGNIFICANT — Two refineries struck",
+    "dl": "SIGNIFICANT \u2014 Two refineries struck",
     "dc": "dmg-significant",
     "sources": [
       {
@@ -3121,7 +3121,7 @@
     "tn": "Bandar Anzali Port, Gilan",
     "dmg": 70,
     "cas": 0,
-    "dl": "CRITICAL — Iran-Russia Caspian supply line severed",
+    "dl": "CRITICAL \u2014 Iran-Russia Caspian supply line severed",
     "dc": "dmg-critical",
     "sources": [
       {
@@ -3146,7 +3146,7 @@
     "tn": "Western & Central Iran",
     "dmg": 60,
     "cas": 0,
-    "dl": "SIGNIFICANT — 85% of Iran's SAMs destroyed",
+    "dl": "SIGNIFICANT \u2014 85% of Iran's SAMs destroyed",
     "dc": "dmg-significant",
     "sources": [
       {
@@ -3171,7 +3171,7 @@
     "tn": "Ashkelon, Southern Israel",
     "dmg": 15,
     "cas": 0,
-    "dl": "MODERATE — Record-range Hezbollah attack",
+    "dl": "MODERATE \u2014 Record-range Hezbollah attack",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -3192,7 +3192,7 @@
     "tn": "Tehran Government District",
     "dmg": 60,
     "cas": 2,
-    "dl": "SIGNIFICANT — IRGC spokesman + intelligence minister killed",
+    "dl": "SIGNIFICANT \u2014 IRGC spokesman + intelligence minister killed",
     "dc": "dmg-significant",
     "sources": [
       {
@@ -3217,7 +3217,7 @@
     "tn": "Strait of Hormuz",
     "dmg": 40,
     "cas": 0,
-    "dl": "SIGNIFICANT — US scrambling to reopen strait",
+    "dl": "SIGNIFICANT \u2014 US scrambling to reopen strait",
     "dc": "dmg-significant",
     "sources": [
       {
@@ -3238,7 +3238,7 @@
     "tn": "Mina al-Ahmadi, Kuwait",
     "dmg": 30,
     "cas": 0,
-    "dl": "MODERATE — Second consecutive day of attacks",
+    "dl": "MODERATE \u2014 Second consecutive day of attacks",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -3259,7 +3259,7 @@
     "tn": "Bahrain / Gulf States",
     "dmg": 15,
     "cas": 0,
-    "dl": "MINOR — Mostly intercepted, shrapnel fires in Bahrain",
+    "dl": "MINOR \u2014 Mostly intercepted, shrapnel fires in Bahrain",
     "dc": "dmg-minor",
     "sources": [
       {
@@ -3284,7 +3284,7 @@
     "tn": "Karaj",
     "dmg": 70,
     "cas": 0,
-    "dl": "SIGNIFICANT — Missile production facility destroyed",
+    "dl": "SIGNIFICANT \u2014 Missile production facility destroyed",
     "dc": "dmg-significant",
     "sources": [
       {
@@ -3309,7 +3309,7 @@
     "tn": "Parchin / Multiple Sites",
     "dmg": 60,
     "cas": 0,
-    "dl": "SIGNIFICANT — 130+ military targets struck in broad wave",
+    "dl": "SIGNIFICANT \u2014 130+ military targets struck in broad wave",
     "dc": "dmg-significant",
     "sources": [
       {
@@ -3330,7 +3330,7 @@
     "tn": "Over Iran / US Base",
     "dmg": 10,
     "cas": 0,
-    "dl": "MINOR — F-35 damaged but safely landed",
+    "dl": "MINOR \u2014 F-35 damaged but safely landed",
     "dc": "dmg-minor",
     "sources": [
       {
@@ -3351,7 +3351,7 @@
     "tn": "Baghdad, Iraq",
     "dmg": 20,
     "cas": 0,
-    "dl": "MINOR — Multiple attacks on embassy logistics",
+    "dl": "MINOR \u2014 Multiple attacks on embassy logistics",
     "dc": "dmg-minor",
     "sources": [
       {
@@ -3372,7 +3372,7 @@
     "tn": "Tehran / Isfahan / Karaj",
     "dmg": 50,
     "cas": 0,
-    "dl": "SIGNIFICANT — Continued bombardment of multiple cities",
+    "dl": "SIGNIFICANT \u2014 Continued bombardment of multiple cities",
     "dc": "dmg-significant",
     "sources": [
       {
@@ -3397,7 +3397,7 @@
     "tn": "Rishon Lezion, Israel",
     "dmg": 20,
     "cas": 0,
-    "dl": "MINOR — Cluster munitions, property damage only",
+    "dl": "MINOR \u2014 Cluster munitions, property damage only",
     "dc": "dmg-minor",
     "sources": [
       {
@@ -3418,7 +3418,7 @@
     "tn": "Diego Garcia, Indian Ocean",
     "dmg": 0,
     "cas": 0,
-    "dl": "MISS — Both missiles failed to hit base",
+    "dl": "MISS \u2014 Both missiles failed to hit base",
     "dc": "dmg-none",
     "sources": [
       {
@@ -3439,7 +3439,7 @@
     "tn": "Beirut, Lebanon",
     "dmg": 40,
     "cas": 3,
-    "dl": "MODERATE — Command centers hit, operatives killed",
+    "dl": "MODERATE \u2014 Command centers hit, operatives killed",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -3460,7 +3460,7 @@
     "tn": "Strait of Hormuz / Global",
     "dmg": 0,
     "cas": 0,
-    "dl": "DIPLOMATIC — Temporary sanctions relief on Iranian oil",
+    "dl": "DIPLOMATIC \u2014 Temporary sanctions relief on Iranian oil",
     "dc": "dmg-none",
     "sources": [
       {
@@ -3485,7 +3485,7 @@
     "tn": "Natanz Nuclear Facility",
     "dmg": 50,
     "cas": 0,
-    "dl": "HEAVY — Third strike on enrichment site, no leakage reported",
+    "dl": "HEAVY \u2014 Third strike on enrichment site, no leakage reported",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -3510,7 +3510,7 @@
     "tn": "Dimona, Israel",
     "dmg": 40,
     "cas": 40,
-    "dl": "MODERATE — Ballistic missile direct hit, interceptors failed",
+    "dl": "MODERATE \u2014 Ballistic missile direct hit, interceptors failed",
     "dc": "dmg-moderate",
     "sources": [
       {
@@ -3535,7 +3535,7 @@
     "tn": "Arad, Israel",
     "dmg": 50,
     "cas": 59,
-    "dl": "HEAVY — Multiple buildings damaged, 3 near collapse",
+    "dl": "HEAVY \u2014 Multiple buildings damaged, 3 near collapse",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -3564,7 +3564,7 @@
     "tn": "Mina al-Ahmadi Refinery, Kuwait",
     "dmg": 60,
     "cas": 0,
-    "dl": "HEAVY — Fire at major refinery (730k bpd capacity)",
+    "dl": "HEAVY \u2014 Fire at major refinery (730k bpd capacity)",
     "dc": "dmg-heavy",
     "sources": [
       {
@@ -3585,7 +3585,7 @@
     "tn": "Eastern Saudi Arabia",
     "dmg": 0,
     "cas": 0,
-    "dl": "INTERCEPTED — 47 drones shot down",
+    "dl": "INTERCEPTED \u2014 47 drones shot down",
     "dc": "dmg-none",
     "sources": [
       {
@@ -3598,7 +3598,7 @@
     "date": "2026-03-21",
     "time": "night",
     "side": "other",
-    "title": "Trump threatens to destroy Iran's power plants — 48-hour ultimatum on Hormuz",
+    "title": "Trump threatens to destroy Iran's power plants \u2014 48-hour ultimatum on Hormuz",
     "detail": "Trump posted on Truth Social giving Iran 48 hours to fully reopen the Strait of Hormuz or face destruction of power plants \"STARTING WITH THE BIGGEST ONE FIRST.\" Iran warned any strike on energy facilities would prompt attacks on US and Israeli energy assets. Comes one day after Trump said he was considering \"winding down\" the operation.",
     "lat": 26.56,
     "lng": 56.25,
@@ -3606,7 +3606,7 @@
     "tn": "Strait of Hormuz / Global",
     "dmg": 0,
     "cas": 0,
-    "dl": "DIPLOMATIC — 48-hour ultimatum to reopen Hormuz",
+    "dl": "DIPLOMATIC \u2014 48-hour ultimatum to reopen Hormuz",
     "dc": "dmg-none",
     "sources": [
       {
@@ -3635,7 +3635,7 @@
     "tn": "Strait of Hormuz",
     "dmg": 0,
     "cas": 0,
-    "dl": "DIPLOMATIC — Iran says strait open except for enemy ships",
+    "dl": "DIPLOMATIC \u2014 Iran says strait open except for enemy ships",
     "dc": "dmg-none",
     "sources": [
       {
@@ -3656,254 +3656,12 @@
     "tn": "International / Berlin",
     "dmg": 0,
     "cas": 0,
-    "dl": "DIPLOMATIC — Joint demand to reopen Hormuz",
+    "dl": "DIPLOMATIC \u2014 Joint demand to reopen Hormuz",
     "dc": "dmg-none",
     "sources": [
       {
         "name": "DW",
         "url": "https://www.dw.com/en/iran-war-israel-launches-strikes-on-tehran-beirut/live-76462692"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-22",
-    "time": "evening",
-    "side": "iran",
-    "title": "Iranian missiles strike Dimona and Arad near Israeli nuclear site",
-    "detail": "Two Iranian ballistic missiles hit the cities of Dimona and Arad in southern Israel, just 8 miles from Israel's main nuclear facility. More than 10 people seriously injured, dozens more hurt. Renewed concerns about whether Israel was holding back its most sophisticated air defenses. Israel cancelled in-person classes nationwide for March 22-23.",
-    "lat": 31.07,
-    "lng": 35.21,
-    "tid": "dimona",
-    "tn": "Dimona / Negev",
-    "dmg": 15,
-    "cas": 40,
-    "dl": "MODERATE — Missiles hit near Israeli nuclear facility",
-    "dc": "dmg-moderate",
-    "sources": [
-      {
-        "name": "ISW",
-        "url": "https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-22-2026/"
-      },
-      {
-        "name": "CNN",
-        "url": "https://www.cnn.com/2026/03/22/middleeast/us-israel-iran-middle-east-war-day-23-what-we-know-intl-hnk"
-      },
-      {
-        "name": "NYT",
-        "url": "https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-22",
-    "time": "daytime",
-    "side": "us",
-    "title": "Combined force strikes Khojir Aerospace Complex missile facilities",
-    "detail": "IDF confirmed strikes on Defense Ministry weapons production and storage site at Khojir Aerospace Complex southeast of Tehran. Facility was final assembly site for Fath-360, Fateh-110, Zolfaghar, and Haj Qasem ballistic missiles. Explosions reported near Damavand town. CENTCOM published satellite imagery showing extensive damage.",
-    "lat": 35.58,
-    "lng": 51.63,
-    "tid": "khojir-complex",
-    "tn": "Khojir Aerospace Complex",
-    "dmg": 80,
-    "cas": 0,
-    "dl": "HEAVY — Missile assembly facility destroyed",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "ISW",
-        "url": "https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-22-2026/"
-      },
-      {
-        "name": "NYT",
-        "url": "https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-22",
-    "time": "daytime",
-    "side": "us",
-    "title": "Strikes on Artesh base and IRGC facility near Karaj",
-    "detail": "IDF struck an Artesh base used for personnel training and missile storage in southwest Tehran, plus an IRGC Aerospace Force weapons production facility west of Tehran. Multiple explosions reported in Karaj, Alborz Province.",
-    "lat": 35.83,
-    "lng": 50.97,
-    "tid": "karaj-military",
-    "tn": "Karaj / West Tehran",
-    "dmg": 60,
-    "cas": 0,
-    "dl": "HEAVY — Military training and production facilities hit",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "ISW",
-        "url": "https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-22-2026/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-22",
-    "time": "daytime",
-    "side": "us",
-    "title": "8th Tactical Air Base in Isfahan struck again",
-    "detail": "Fire reported at 8th Tactical Air Base in Isfahan Province after renewed combined force strikes. Base previously hit on March 7 and 8. Satellite imagery also confirmed two craters on Bushehr Airport runway from strikes between March 14-22.",
-    "lat": 32.62,
-    "lng": 51.68,
-    "tid": "isfahan-airbase",
-    "tn": "8th Tactical Air Base, Isfahan",
-    "dmg": 50,
-    "cas": 0,
-    "dl": "HEAVY — Air base struck for third time",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "ISW",
-        "url": "https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-22-2026/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-22",
-    "time": "daytime",
-    "side": "us",
-    "title": "Underground missile bases struck in Fars and Hormozgan",
-    "detail": "Combined force struck exterior of underground missile base between Gerash and Lar in Fars Province (hit March 16 and 22). Also confirmed strikes on missile launchers and tunnel entrances at underground bases in Hajjiabad (Hormozgan) and Darab (Fars) from March 20.",
-    "lat": 27.67,
-    "lng": 54.15,
-    "tid": "fars-underground",
-    "tn": "Underground Missile Bases, Fars/Hormozgan",
-    "dmg": 40,
-    "cas": 0,
-    "dl": "MODERATE — Tunnel entrances and launchers damaged",
-    "dc": "dmg-moderate",
-    "sources": [
-      {
-        "name": "ISW",
-        "url": "https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-22-2026/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-22",
-    "time": "daytime",
-    "side": "us",
-    "title": "Israel orders demolition of bridges over Litani River in Lebanon",
-    "detail": "Defense Minister Israel Katz ordered military to step up demolition of bridges and houses in Lebanon. Lebanese President Joseph Aoun accused Israel of \"suspicious plans\" to establish a buffer zone in the south. Israel's military chief said campaign against Hezbollah had \"only just begun.\"",
-    "lat": 33.35,
-    "lng": 35.48,
-    "tid": "litani-river",
-    "tn": "Litani River, Southern Lebanon",
-    "dmg": 30,
-    "cas": 0,
-    "dl": "MODERATE — Bridge demolitions, possible occupation prep",
-    "dc": "dmg-moderate",
-    "sources": [
-      {
-        "name": "NYT",
-        "url": "https://www.nytimes.com/2026/03/22/world/middleeast/israel-lebanon-fighting-hezbollah.html"
-      },
-      {
-        "name": "ABC AU",
-        "url": "https://www.abc.net.au/news/2026-03-23/iran-israel-war-live-monday-march-23-2026/106484540"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-22",
-    "time": "evening",
-    "side": "other",
-    "title": "IRGC threatens to hit Gulf power plants and desalination facilities",
-    "detail": "Iran's Revolutionary Guard said if US targets Iranian energy facilities, it will respond by hitting power plants supplying electricity to US bases, plus economic and industrial infrastructure with American shareholders. \"Do not doubt that we will do this.\" Iran dismissed Trump's 48-hour Hormuz ultimatum and threatened to consider power plants and water facilities \"legitimate targets.\"",
-    "lat": 35.69,
-    "lng": 51.39,
-    "tid": "tehran-irgc",
-    "tn": "Tehran / IRGC Statement",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "DIPLOMATIC — IRGC threatens regional energy infrastructure retaliation",
-    "dc": "dmg-none",
-    "sources": [
-      {
-        "name": "ABC AU",
-        "url": "https://www.abc.net.au/news/2026-03-23/iran-israel-war-live-monday-march-23-2026/106484540"
-      },
-      {
-        "name": "NYT",
-        "url": "https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-23",
-    "time": "early morning",
-    "side": "us",
-    "title": "Israel launches wide-scale strikes on Tehran — power outages across capital",
-    "detail": "Israel announced \"wide-scale wave of strikes\" targeting Tehran infrastructure early Monday. Power went out across large parts of the capital with sustained strikes hitting eastern, western, and northern regions. Blackouts affected neighborhoods across the city of 10 million. Came as Trump's 48-hour Hormuz ultimatum neared expiry.",
-    "lat": 35.69,
-    "lng": 51.39,
-    "tid": "tehran-infrastructure",
-    "tn": "Tehran Infrastructure",
-    "dmg": 70,
-    "cas": 0,
-    "dl": "HEAVY — Power grid struck, citywide blackouts",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "NYT",
-        "url": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump"
-      },
-      {
-        "name": "ABC AU",
-        "url": "https://www.abc.net.au/news/2026-03-23/iran-israel-war-live-monday-march-23-2026/106484540"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-23",
-    "time": "morning",
-    "side": "iran",
-    "title": "Iran threatens to mine entire Persian Gulf if coasts attacked",
-    "detail": "Iran's Defence Council warned that any attack on Iran's southern coast or islands would trigger mine-laying across all Gulf routes with \"various types of sea mines, including floating mines released from the coast.\" Said entire Gulf would be in situation similar to Strait of Hormuz \"for a long time.\" US reportedly considering plans to occupy or blockade Kharg Island, Iran's main oil export hub.",
-    "lat": 27.0,
-    "lng": 52.0,
-    "tid": "persian-gulf",
-    "tn": "Persian Gulf",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "DIPLOMATIC — Iran threatens to mine entire Gulf",
-    "dc": "dmg-none",
-    "sources": [
-      {
-        "name": "ABC AU",
-        "url": "https://www.abc.net.au/news/2026-03-23/iran-israel-war-live-monday-march-23-2026/106484540"
-      },
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-23",
-    "time": "morning",
-    "side": "other",
-    "title": "Asian stock markets tumble; oil surges past 13/barrel",
-    "detail": "Asian markets fell sharply on escalation fears: South Korea's Kospi dropped 6.5%, Japan/China/Hong Kong fell ~3.5%. Brent crude rose above 13/barrel; US benchmark jumped above 00. Global economic impact widening — UN warned tens of millions more could face hunger. War has displaced 3.2 million in Iran and 1 million in Lebanon.",
-    "lat": 37.57,
-    "lng": 126.98,
-    "tid": "global-markets",
-    "tn": "Global / Asian Markets",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "ECONOMIC — Markets crash, oil spikes on escalation",
-    "dc": "dmg-none",
-    "sources": [
-      {
-        "name": "NYT",
-        "url": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump"
-      },
-      {
-        "name": "ABC AU",
-        "url": "https://www.abc.net.au/news/2026-03-23/iran-israel-war-live-monday-march-23-2026/106484540"
       }
     ]
   }
