@@ -7806,55 +7806,5 @@
         "url": "https://apnews.com/live/iran-war-israel-trump-04-09-2026"
       }
     ]
-  },
-  {
-    "date": "2026-04-10",
-    "time": "early morning",
-    "side": "hezbollah",
-    "title": "Hezbollah missile on Haifa prompts fresh Israeli strikes in Lebanon",
-    "detail": "Reuters reported Hezbollah launched a missile toward Haifa that was intercepted, while Israel said it struck 10 launchers in Lebanon after rocket fire toward northern Israel. The exchange underscored the still-unresolved dispute over whether the Iran ceasefire also covers Lebanon.",
-    "lat": 33.2733,
-    "lng": 35.5789,
-    "tid": "lebanon-haifa-exchange-apr10",
-    "tn": "South Lebanon / Haifa front",
-    "dmg": 10,
-    "cas": 0,
-    "dl": "LOW — Cross-border fire continues despite wider ceasefire",
-    "dc": "dmg-light",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/us-iran-ceasefire-deal-shows-strain-ahead-talks-with-oil-flows-squeezed-2026-04-10/"
-      },
-      {
-        "name": "AP News",
-        "url": "https://apnews.com/live/iran-war-israel-trump-04-10-2026"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-10",
-    "time": "report",
-    "side": "other",
-    "title": "Iran says war death toll has exceeded 3,000",
-    "detail": "A senior Iranian forensic official said more than 3,000 people had been killed in enemy attacks during the war, marking Tehran's clearest public casualty estimate yet. AP reported the figure as negotiators prepared for U.S.-Iran talks in Islamabad under an increasingly fragile ceasefire.",
-    "lat": 35.6892,
-    "lng": 51.389,
-    "tid": "iran-death-toll-over-3000-apr10",
-    "tn": "Iran nationwide",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "MILESTONE — Iran publicly pegs war deaths above 3,000",
-    "dc": "dmg-strategic",
-    "sources": [
-      {
-        "name": "AP News",
-        "url": "https://apnews.com/live/iran-war-israel-trump-04-10-2026"
-      },
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/us-iran-ceasefire-deal-shows-strain-ahead-talks-with-oil-flows-squeezed-2026-04-10/"
-      }
-    ]
   }
 ]
