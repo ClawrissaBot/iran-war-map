@@ -7868,55 +7868,5 @@
         "url": "https://www.reuters.com/world/asia-pacific/us-iran-ceasefire-deal-shows-strain-ahead-talks-with-oil-flows-squeezed-2026-04-10/"
       }
     ]
-  },
-  {
-    "date": "2026-04-11",
-    "time": "morning",
-    "side": "other",
-    "title": "Islamabad peace talks open under threat of collapse",
-    "detail": "Senior U.S. and Iranian delegations reached Islamabad for the highest-level talks between the two countries in decades, but Tehran said negotiations could not properly begin without U.S. commitments on sanctions relief and a Lebanon ceasefire. The standoff made the wider Iran war ceasefire look increasingly fragile even as direct U.S.-Iran diplomacy finally started.",
-    "lat": 33.6844,
-    "lng": 73.0479,
-    "tid": "islamabad-peace-talks-apr11",
-    "tn": "Islamabad negotiations",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "STRATEGIC — Direct U.S.-Iran talks begin but are immediately strained",
-    "dc": "dmg-strategic",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/us-iran-set-peace-talks-doubts-emerge-over-lebanon-sanctions-2026-04-11/"
-      },
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/us-iran-ceasefire-deal-shows-strain-ahead-talks-with-oil-flows-squeezed-2026-04-10/"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-11",
-    "time": "morning",
-    "side": "hezbollah",
-    "title": "Hezbollah operations and Israeli overflights keep Lebanon front active",
-    "detail": "Reuters reported Israeli strikes resumed in southern Lebanon on Saturday morning, with drones and warplanes operating over Beirut, while Hezbollah announced several attacks on Israeli positions in Lebanon and northern Israel. The exchanges showed the Lebanon theater was still active despite the broader U.S.-Iran ceasefire and ahead of planned Israel-Lebanon talks in Washington.",
-    "lat": 33.2718,
-    "lng": 35.2038,
-    "tid": "lebanon-front-active-apr11",
-    "tn": "South Lebanon border front",
-    "dmg": 10,
-    "cas": 0,
-    "dl": "LOW — Active cross-border operations continue on the Lebanon front",
-    "dc": "dmg-light",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/us-iran-set-peace-talks-doubts-emerge-over-lebanon-sanctions-2026-04-11/"
-      },
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/us-iran-ceasefire-deal-shows-strain-ahead-talks-with-oil-flows-squeezed-2026-04-10/"
-      }
-    ]
   }
 ]
