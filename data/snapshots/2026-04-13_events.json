@@ -8005,30 +8005,5 @@
         "url": "https://apnews.com/live/iran-war-israel-trump-04-12-2026"
       }
     ]
-  },
-  {
-    "date": "2026-04-12",
-    "time": "afternoon",
-    "side": "us",
-    "title": "U.S. announces blockade of Iranian ports after talks fail",
-    "detail": "After the Islamabad negotiations collapsed, President Trump said the U.S. Navy would begin blockading maritime traffic entering and leaving Iranian ports starting Monday, while still allowing transit to non-Iranian ports through the Strait of Hormuz. AP and Reuters both said the move sharply escalated pressure on Tehran and prompted Iranian officials to warn that military vessels in the strait would face a forceful response.",
-    "lat": 26.5667,
-    "lng": 56.25,
-    "tid": "us-blockade-iranian-ports-apr12",
-    "tn": "Strait of Hormuz / Iranian ports",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "STRATEGIC — U.S. orders a naval blockade of Iranian ports after failed ceasefire talks",
-    "dc": "dmg-strategic",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/us-iran-talks-pause-now-disagreements-remain-2026-04-11/"
-      },
-      {
-        "name": "AP News",
-        "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-12-2026-a8a0d22918fc3fb30bc3abf1cd5c5a13"
-      }
-    ]
   }
 ]
