@@ -327,6 +327,12 @@
     ],
     "satelliteImages": [
       {
+        "url": "https://abcnews.go.com/International/us-allied-radar-sites-middle-east-struck-10/story?id=131164670",
+        "source": "Planet Labs PBC",
+        "captureDate": "2026-03-01",
+        "description": "Satellite imagery indicates radar sites near Abu Dhabi and Al Sader in the UAE were hit in the opening Iranian attacks"
+      },
+      {
         "url": "https://apnews.com/article/iran-us-war-satellite-photos-damage-uae-bahrain-4b5edabf4c8cc89a56150ca4f1b7c06f",
         "source": "Airbus Pléiades Neo",
         "captureDate": "2026-03-15",
