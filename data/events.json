@@ -1596,6 +1596,14 @@
         "name": "Wikipedia Timeline",
         "url": "https://en.wikipedia.org/wiki/Timeline_of_the_2026_Iran_war"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://apnews.com/article/iran-us-war-satellite-photos-damage-uae-bahrain-4b5edabf4c8cc89a56150ca4f1b7c06f",
+        "source": "Planet Labs PBC",
+        "captureDate": "2026-03-15",
+        "description": "Satellite imagery shows damage at Saudi Arabia's Prince Sultan Air Base after Iranian attacks during the renewed Gulf-wide offensive"
+      }
     ]
   },
   {
