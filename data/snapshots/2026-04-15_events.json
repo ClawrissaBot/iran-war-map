@@ -8044,55 +8044,5 @@
         "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-12-2026-a8a0d22918fc3fb30bc3abf1cd5c5a13"
       }
     ]
-  },
-  {
-    "date": "2026-04-14",
-    "time": "morning",
-    "side": "us",
-    "title": "U.S. says blockade of Iranian ports is fully in effect",
-    "detail": "U.S. Central Command said no ships got past the new blockade in its first 24 hours and that six merchant vessels were ordered to turn back toward Iranian waters. Reuters and AP both reported the move marked the first actual enforcement phase of the blockade Trump announced after the Islamabad talks collapsed, with more than a dozen warships and thousands of U.S. personnel involved.",
-    "lat": 25.75,
-    "lng": 57.25,
-    "tid": "us-blockade-enforced-apr14",
-    "tn": "Strait of Hormuz / Gulf of Oman",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "STRATEGIC — U.S. blockade shifts from announcement to active enforcement at Iran's ports",
-    "dc": "dmg-strategic",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/six-ships-turned-around-part-strait-hormuz-blockade-us-military-says-2026-04-14/"
-      },
-      {
-        "name": "AP News",
-        "url": "https://apnews.com/article/us-iran-war-lebanon-israel-talks-hormuz-14-april-2026-24655d40b2d968c39949e5ec2e01535b"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-14",
-    "time": "afternoon",
-    "side": "diplomatic",
-    "title": "U.S. hosts first direct Israel-Lebanon talks in decades",
-    "detail": "Secretary of State Marco Rubio hosted Israeli and Lebanese envoys in Washington in the first direct talks between the two countries in decades. Reuters and AP said the meeting produced agreement to continue direct negotiations, even though Lebanon pressed for a ceasefire while Israel kept demanding Hezbollah's disarmament and did not commit to ending its attacks.",
-    "lat": 38.9072,
-    "lng": -77.0369,
-    "tid": "israel-lebanon-direct-talks-apr14",
-    "tn": "Washington direct talks",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "DIPLOMATIC — Rare direct Israel-Lebanon talks open a new channel around the wider war",
-    "dc": "dmg-strategic",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/lebanese-israeli-envoys-meet-israel-presses-war-hezbollah-2026-04-14/"
-      },
-      {
-        "name": "AP News",
-        "url": "https://apnews.com/article/us-iran-war-lebanon-israel-talks-hormuz-14-april-2026-24655d40b2d968c39949e5ec2e01535b"
-      }
-    ]
   }
 ]
