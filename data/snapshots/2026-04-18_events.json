@@ -8285,30 +8285,5 @@
         "url": "https://www.reuters.com/world/asia-pacific/hopes-middle-east-peace-grow-israel-discusses-lebanon-ceasefire-2026-04-16/"
       }
     ]
-  },
-  {
-    "date": "2026-04-18",
-    "time": "morning",
-    "side": "other",
-    "title": "First tanker convoy crosses Hormuz since war began",
-    "detail": "Reuters reported a convoy of eight tankers, including a VLCC, product tankers, chemical tankers and LPG carriers, was crossing the Strait of Hormuz on April 18 under a limited managed-passage arrangement coordinated by Iran. It was the first major outbound tanker movement since the U.S.-Israeli war on Iran began in late February, signaling a partial reopening of the waterway even as many ships remained stuck and transit was still tightly restricted.",
-    "lat": 26.5667,
-    "lng": 56.25,
-    "tid": "hormuz-first-tanker-convoy-apr18",
-    "tn": "Strait of Hormuz",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "STRATEGIC — First major tanker convoy moves through Hormuz after seven weeks of wartime disruption",
-    "dc": "dmg-strategic",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/convoy-tankers-is-seen-leaving-gulf-vessel-tracking-data-shows-2026-04-18/"
-      },
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/shipping-firms-seek-clarifications-before-crossing-hormuz-2026-04-17/"
-      }
-    ]
   }
 ]
