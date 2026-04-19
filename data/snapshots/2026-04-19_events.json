@@ -8310,34 +8310,5 @@
         "url": "https://www.reuters.com/world/middle-east/shipping-firms-seek-clarifications-before-crossing-hormuz-2026-04-17/"
       }
     ]
-  },
-  {
-    "date": "2026-04-18",
-    "time": "afternoon",
-    "side": "iran",
-    "title": "Iran reimposes Hormuz restrictions and IRGC fires on ships",
-    "detail": "Hours after the first managed tanker convoy crossed the Strait of Hormuz, Iran restored strict controls over the waterway and warned that no ships could pass while the U.S. naval blockade of Iranian ports remained in force. Reuters and AP reported that Iranian gunboats opened fire on at least two merchant vessels, including Indian-linked shipping, and radioed other ships that the strait had effectively been shut again.",
-    "lat": 26.5667,
-    "lng": 56.25,
-    "tid": "iran-reimposes-hormuz-restrictions-apr18",
-    "tn": "Strait of Hormuz",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "STRATEGIC — Tehran reverses the partial reopening and uses force to reassert control over Hormuz traffic",
-    "dc": "dmg-strategic",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/convoy-tankers-is-seen-leaving-gulf-vessel-tracking-data-shows-2026-04-18/"
-      },
-      {
-        "name": "AP News",
-        "url": "https://apnews.com/live/iran-war-israel-trump-04-18-2026"
-      },
-      {
-        "name": "Reuters Iran live coverage",
-        "url": "https://www.reuters.com/world/iran/"
-      }
-    ]
   }
 ]
