@@ -8339,55 +8339,5 @@
         "url": "https://www.reuters.com/world/iran/"
       }
     ]
-  },
-  {
-    "date": "2026-04-19",
-    "time": "afternoon",
-    "side": "us",
-    "title": "U.S. seizes Iranian cargo ship near Hormuz",
-    "detail": "The United States said a Navy destroyer intercepted and disabled the Iranian-flagged cargo ship Touska near the Gulf of Oman after it tried to run the U.S. blockade of Iranian ports. Reuters and AP described it as the first such seizure since the blockade began, while Iran denounced the boarding as piracy and threatened retaliation, putting the fragile ceasefire and planned Pakistan talks at risk.",
-    "lat": 25.8,
-    "lng": 57.3,
-    "tid": "us-seizes-iranian-cargo-ship-apr19",
-    "tn": "Gulf of Oman / Strait of Hormuz approaches",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "STRATEGIC — First U.S. blockade seizure sharply raises the risk of ceasefire collapse",
-    "dc": "dmg-strategic",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/trump-iran-cite-progress-talks-uncertainty-hangs-over-strait-2026-04-19/"
-      },
-      {
-        "name": "AP News",
-        "url": "https://apnews.com/article/us-iran-war-israel-hormuz-19-april-2026-0a637f98d588930f195f61cffe07d4f3"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-20",
-    "time": "morning",
-    "side": "other",
-    "title": "Israel publishes first map of new south Lebanon control line",
-    "detail": "Reuters reported that the Israeli military for the first time published a map showing its new deployment line inside southern Lebanon, placing dozens of mostly abandoned villages under Israeli control only days after the Lebanon ceasefire took effect. The move underscored that the truce remained fragile and that the Lebanon front was still reshaping the wider Iran war's endgame.",
-    "lat": 33.27,
-    "lng": 35.53,
-    "tid": "israel-south-lebanon-control-line-apr20",
-    "tn": "Southern Lebanon control line",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "STRATEGIC — Israel formalizes a new line of control inside southern Lebanon after the ceasefire",
-    "dc": "dmg-strategic",
-    "sources": [
-      {
-        "name": "Reuters Iran live coverage",
-        "url": "https://www.reuters.com/world/iran/"
-      },
-      {
-        "name": "The Guardian live coverage",
-        "url": "https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel"
-      }
-    ]
   }
 ]
