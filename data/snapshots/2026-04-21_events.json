@@ -8389,55 +8389,5 @@
         "url": "https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel"
       }
     ]
-  },
-  {
-    "date": "2026-04-20",
-    "time": "afternoon",
-    "side": "israel",
-    "title": "Israel expands south Lebanon exclusion warnings to border belt and Litani line",
-    "detail": "Reuters reported that Israel warned residents not to return to a belt of territory running the full southern Lebanon border and not to approach the Litani River, entrenching its hold even after the 10-day ceasefire began. The order signaled that the Lebanon front remained volatile and that Israel was turning its newly published control line into an active exclusion zone.",
-    "lat": 33.27,
-    "lng": 35.53,
-    "tid": "israel-south-lebanon-exclusion-zone-apr20",
-    "tn": "Southern Lebanon exclusion zone",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "STRATEGIC — Israel hardens post-ceasefire control with a broader exclusion warning across southern Lebanon",
-    "dc": "dmg-strategic",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/israel-entrenches-hold-south-lebanon-warns-residents-stay-out-2026-04-20/"
-      },
-      {
-        "name": "Al-Monitor",
-        "url": "https://www.al-monitor.com/originals/2026/04/israel-entrenches-hold-south-lebanon-warns-residents-stay-out"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-20",
-    "time": "evening",
-    "side": "other",
-    "title": "Pakistan says Iran gave a positive signal on new US talks",
-    "detail": "A senior Pakistani official told Reuters that Islamabad had received a positive signal from Tehran and was confident it could bring Iran into fresh talks with the United States. The disclosure marked the clearest indication yet that the post-seizure Hormuz crisis had not collapsed the mediation track, even though Iranian officials were still publicly hedging.",
-    "lat": 33.6844,
-    "lng": 73.0479,
-    "tid": "pakistan-iran-us-talks-positive-signal-apr20",
-    "tn": "Islamabad mediation track",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "STRATEGIC — Pakistan keeps the ceasefire diplomacy alive after the Hormuz ship seizure shock",
-    "dc": "dmg-strategic",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/pakistan-confident-iran-will-attend-us-talks-senior-pakistani-government-source-2026-04-20/"
-      },
-      {
-        "name": "Al-Monitor",
-        "url": "https://www.al-monitor.com/originals/2026/04/pakistan-confident-iran-will-attend-us-talks-senior-pakistani-government-source"
-      }
-    ]
   }
 ]
