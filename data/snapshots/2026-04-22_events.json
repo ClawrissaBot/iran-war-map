@@ -8445,59 +8445,5 @@
         "url": "https://www.al-monitor.com/originals/2026/04/pakistan-confident-iran-will-attend-us-talks-senior-pakistani-government-source"
       }
     ]
-  },
-  {
-    "date": "2026-04-21",
-    "time": "evening",
-    "side": "other",
-    "title": "Trump extends Iran ceasefire while keeping port blockade in place",
-    "detail": "Reuters reported that President Donald Trump indefinitely extended the U.S.-Iran ceasefire on April 21 at Pakistan's request to keep peace talks alive, but said the U.S. Navy would continue blockading Iranian ports and coastlines. Tehran did not clearly accept the move and Iranian hardliners warned the blockade itself remained an act of war, making the truce extension a major diplomatic development rather than a clean de-escalation.",
-    "lat": 33.6844,
-    "lng": 73.0479,
-    "tid": "iran-ceasefire-extension-blockade-apr21",
-    "tn": "Islamabad ceasefire track / Iranian ports",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "STRATEGIC — Ceasefire is prolonged, but the continuing U.S. blockade keeps a major flashpoint alive",
-    "dc": "dmg-strategic",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/us-positive-iran-deal-talks-still-uncertain-ceasefire-end-nears-2026-04-21/"
-      },
-      {
-        "name": "Reuters Iran live coverage",
-        "url": "https://www.reuters.com/world/iran/"
-      },
-      {
-        "name": "The Guardian live coverage",
-        "url": "https://www.theguardian.com/world/live/2026/apr/21/iran-war-live-news-updates-trump-us-hormuz-oil-middle-east-talks"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-21",
-    "time": "night",
-    "side": "hezbollah",
-    "title": "Hezbollah fires on Israeli buffer-zone forces, prompting Israeli strike",
-    "detail": "Live war coverage on April 21 reported that Hezbollah fired rockets and drones at Israeli forces maintaining the new buffer zone in southern Lebanon, and Israel responded by striking the launcher and calling the attack a ceasefire violation. The exchange showed that the Lebanon front remained active even after the 10-day ceasefire took effect and despite parallel efforts to stabilize the wider Iran war.",
-    "lat": 33.27,
-    "lng": 35.53,
-    "tid": "hezbollah-israel-buffer-zone-clash-apr21",
-    "tn": "Southern Lebanon buffer zone",
-    "dmg": 5,
-    "cas": 0,
-    "dl": "LIGHT — Post-ceasefire rocket and drone fire triggers an immediate Israeli retaliation",
-    "dc": "dmg-light",
-    "sources": [
-      {
-        "name": "The Guardian live coverage",
-        "url": "https://www.theguardian.com/world/live/2026/apr/21/iran-war-live-news-updates-trump-us-hormuz-oil-middle-east-talks"
-      },
-      {
-        "name": "Reuters Iran live coverage",
-        "url": "https://www.reuters.com/world/iran/"
-      }
-    ]
   }
 ]
