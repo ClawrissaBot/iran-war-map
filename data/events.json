@@ -1337,6 +1337,12 @@
         "source": "Planet Labs PBC",
         "captureDate": "2026-03-03",
         "description": "Damage to AN/FPS-132 Phased Array Radar at Umm Dahal, Qatar; debris and water runoff from firefighting visible"
+      },
+      {
+        "url": "https://www.bellingcat.com/resources/2026/04/07/tool-damage-assessment-destruction-sentinel-satellite-imagery-iran-us-gulf/",
+        "source": "Sentinel-2 / Bellingcat",
+        "captureDate": "2026-03-14",
+        "description": "Sentinel-2 comparison shows a blackened, damaged warehouse-like building at Al Udeid Air Base after an early-March Iranian ballistic missile strike"
       }
     ]
   },
@@ -2588,6 +2594,14 @@
         "name": "Alma Center",
         "url": "https://israel-alma.org/daily-report-the-second-iran-war-march-15-2026-1800/"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.bellingcat.com/resources/2026/04/07/tool-damage-assessment-destruction-sentinel-satellite-imagery-iran-us-gulf/",
+        "source": "Sentinel-2 / Bellingcat",
+        "captureDate": "2026-03-17",
+        "description": "Sentinel-2 comparison shows damage at the IRGC Ashura Garrison near Isfahan after strikes on military infrastructure in the Isfahan area"
+      }
     ]
   },
   {
@@ -2896,6 +2910,12 @@
         "source": "USGS Landsat",
         "captureDate": "2026-03-16",
         "description": "Fire at Dubai International Airport after Iranian drone strike set fuel tanker ablaze"
+      },
+      {
+        "url": "https://www.bellingcat.com/resources/2026/04/07/tool-damage-assessment-destruction-sentinel-satellite-imagery-iran-us-gulf/",
+        "source": "Sentinel-2 / Bellingcat",
+        "captureDate": "2026-03-28",
+        "description": "Sentinel-2 comparison shows damage to fuel tanks at Fujairah Port after Iranian drone/missile attacks on UAE industrial targets"
       }
     ]
   },
