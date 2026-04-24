@@ -8531,8 +8531,8 @@
     "side": "us",
     "title": "U.S. intercepts Iranian oil tankers in Asian waters",
     "detail": "Reuters reported that U.S. forces intercepted at least three Iranian-flagged oil tankers near India, Malaysia and Sri Lanka and redirected them away from their positions as part of Washington's maritime blockade. The interdictions showed the blockade expanding well beyond Hormuz itself into the wider Indian Ocean energy trade.",
-    "lat": 8,
-    "lng": 78,
+    "lat": 8.0,
+    "lng": 78.0,
     "tid": "indian-ocean-shipping",
     "tn": "Indian Ocean tanker routes",
     "dmg": 15,
@@ -8576,131 +8576,6 @@
       {
         "name": "AP News",
         "url": "https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-22-2026-267230f7f32b436822484479313840f7"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-23",
-    "time": "daytime",
-    "side": "iran",
-    "title": "Iran refuses to reopen Hormuz while U.S. blockade continues",
-    "detail": "Reuters reported that Tehran said it would not consider reopening the Strait of Hormuz or resuming meaningful peace talks until Washington lifts its blockade of Iranian shipping. The demand hardened the central ceasefire standoff after Iran's April 22 ship seizures and left Pakistan-brokered diplomacy stalled despite Trump's indefinite ceasefire extension.",
-    "lat": 26.3,
-    "lng": 56.5,
-    "tid": "iran-hormuz-blockade-demand-apr23",
-    "tn": "Strait of Hormuz / Iranian ports",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "STRATEGIC — Iran ties reopening Hormuz and renewed talks to removal of the U.S. maritime blockade",
-    "dc": "dmg-strategic",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/iran-tightens-control-hormuz-after-us-calls-off-renewed-attacks-2026-04-23/"
-      },
-      {
-        "name": "The Hindu live coverage",
-        "url": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-23-2026-strait-of-hormuz-ships-attacked-by-tehran-donald-trump-ceasefire-west-asia-crisis/article70895506.ece"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-23",
-    "time": "afternoon",
-    "side": "us",
-    "title": "Trump orders Navy to destroy Iranian mine-laying boats in Hormuz",
-    "detail": "President Trump said he had ordered the U.S. Navy to \"shoot and kill\" Iranian boats laying mines in the Strait of Hormuz and to step up demining operations, while claiming Washington was in \"total control\" of the sealed waterway. The order raised the risk of a direct maritime clash even as the formal U.S.-Iran ceasefire remained in place.",
-    "lat": 26.3,
-    "lng": 56.5,
-    "tid": "us-hormuz-mine-boats-order-apr23",
-    "tn": "Strait of Hormuz mine threat",
-    "dmg": 20,
-    "cas": 0,
-    "dl": "HEAVY — U.S. naval rules of engagement escalate around Iranian mine-laying activity",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/iran-tightens-control-hormuz-after-us-calls-off-renewed-attacks-2026-04-23/"
-      },
-      {
-        "name": "The Hindu live coverage",
-        "url": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-23-2026-strait-of-hormuz-ships-attacked-by-tehran-donald-trump-ceasefire-west-asia-crisis/article70895506.ece"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-23",
-    "time": "afternoon",
-    "side": "us",
-    "title": "U.S. boards tanker Majestic as blockade total reaches 33 redirected vessels",
-    "detail": "Reuters reported that U.S. forces boarded another Iran-associated tanker, the Majestic, in the Indian Ocean near Sri Lanka and that the U.S. military said it had redirected 33 vessels since the blockade began. The action showed the blockade expanding into a sustained interdiction campaign against Iranian-linked shipping far beyond the Strait of Hormuz.",
-    "lat": 7.5,
-    "lng": 81.2,
-    "tid": "us-boards-majestic-tanker-apr23",
-    "tn": "Indian Ocean tanker interdiction zone",
-    "dmg": 15,
-    "cas": 0,
-    "dl": "STRATEGIC — U.S. blockade enforcement reaches 33 redirected vessels and another boarded tanker",
-    "dc": "dmg-strategic",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/iran-tightens-control-hormuz-after-us-calls-off-renewed-attacks-2026-04-23/"
-      },
-      {
-        "name": "The Hindu live coverage",
-        "url": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-23-2026-strait-of-hormuz-ships-attacked-by-tehran-donald-trump-ceasefire-west-asia-crisis/article70895506.ece"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-23",
-    "time": "evening",
-    "side": "other",
-    "title": "Israel and Lebanon extend Hezbollah ceasefire by three weeks",
-    "detail": "After White House talks with Israeli and Lebanese representatives, Trump announced that Israel and Lebanon had agreed to extend the Israel-Hezbollah ceasefire by three weeks. The extension kept the Lebanon front formally paused after several deadly violations, though Reuters noted it remained unclear how much control Beirut could exert over Hezbollah.",
-    "lat": 33.27,
-    "lng": 35.53,
-    "tid": "israel-lebanon-ceasefire-extension-apr23",
-    "tn": "Southern Lebanon ceasefire zone",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "STRATEGIC — Three-week extension keeps the Lebanon front contained despite recent clashes",
-    "dc": "dmg-strategic",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/iran-tightens-control-hormuz-after-us-calls-off-renewed-attacks-2026-04-23/"
-      },
-      {
-        "name": "The Hindu live coverage",
-        "url": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-23-2026-strait-of-hormuz-ships-attacked-by-tehran-donald-trump-ceasefire-west-asia-crisis/article70895506.ece"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-23",
-    "time": "night",
-    "side": "us",
-    "title": "Third U.S. carrier enters the regional theater",
-    "detail": "U.S. Central Command said the USS George H.W. Bush had arrived in the Indian Ocean inside its area of responsibility, bringing the number of American aircraft carriers operating around the Iran war theater to three. The arrival reinforced Washington's blockade and strike posture while Trump said the clock was ticking for Iran to accept a wider deal.",
-    "lat": 12.5,
-    "lng": 60.5,
-    "tid": "uss-george-hw-bush-arrives-apr23",
-    "tn": "Indian Ocean / CENTCOM carrier operating area",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "STRATEGIC — U.S. naval presence grows to three aircraft carriers in and around the war theater",
-    "dc": "dmg-strategic",
-    "sources": [
-      {
-        "name": "The Hindu live coverage",
-        "url": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-23-2026-strait-of-hormuz-ships-attacked-by-tehran-donald-trump-ceasefire-west-asia-crisis/article70895506.ece"
-      },
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/iran-tightens-control-hormuz-after-us-calls-off-renewed-attacks-2026-04-23/"
       }
     ]
   }
