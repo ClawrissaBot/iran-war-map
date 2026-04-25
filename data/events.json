@@ -8848,5 +8848,134 @@
         "url": "https://www.reuters.com/world/iran/"
       }
     ]
+  },
+  {
+    "date": "2026-04-25",
+    "time": "early morning",
+    "side": "iran",
+    "title": "Iran hangs alleged Mossad agent over Isfahan protest sabotage",
+    "detail": "Iran said it executed Erfan Kiani, whom Tasnim described as a Mossad-linked operative, after accusing him of vandalism, arson and violence during nationwide protests earlier in the year in Isfahan. The execution underscored Tehran's internal-security crackdown and its use of alleged Israeli intelligence ties as the war and ceasefire diplomacy continued.",
+    "lat": 32.6546,
+    "lng": 51.668,
+    "tid": "iran-executes-alleged-mossad-agent-isfahan-apr25",
+    "tn": "Isfahan internal-security crackdown",
+    "dmg": 0,
+    "cas": 1,
+    "dl": "STRATEGIC — Execution of an alleged Israeli agent signals intensified domestic counterintelligence pressure during the war",
+    "dc": "dmg-strategic",
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/iran-says-it-has-hanged-agent-working-israel-over-sabotage-protests-tasnim-2026-04-25/"
+      },
+      {
+        "name": "Times of Israel liveblog",
+        "url": "https://www.timesofisrael.com/liveblog-april-25-2026/"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-25",
+    "time": "morning",
+    "side": "us",
+    "title": "U.S. destroyer stops Iranian-flagged ship in Hormuz blockade enforcement",
+    "detail": "U.S. Central Command released a photo of the USS Rafael Peralta tracking and stopping an Iranian-flagged vessel in the Strait of Hormuz as it tried to sail to an Iranian port. U.S. War Secretary Pete Hegseth said American forces had forced 34 ships to turn around without incident since the blockade began, keeping pressure on Iranian maritime access even as talks moved to Pakistan.",
+    "lat": 26.45,
+    "lng": 56.25,
+    "tid": "uss-rafael-peralta-stops-iranian-ship-hormuz-apr25",
+    "tn": "Strait of Hormuz blockade line",
+    "dmg": 15,
+    "cas": 0,
+    "dl": "MODERATE — Direct U.S. naval interdiction continues to enforce the blockade and restrict Iranian port access",
+    "dc": "dmg-moderate",
+    "sources": [
+      {
+        "name": "i Paper liveblog",
+        "url": "https://inews.co.uk/news/trump-orders-navy-to-shoot-and-kill-boats-in-strait-of-hormuz-4376600"
+      },
+      {
+        "name": "Reuters Iran latest",
+        "url": "https://www.reuters.com/world/iran/"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-25",
+    "time": "morning",
+    "side": "diplomatic",
+    "title": "Islamabad locks down as Iran and U.S. teams prepare indirect talks",
+    "detail": "Pakistan placed parts of Islamabad under heavy security as Iranian Foreign Minister Abbas Araghchi met Pakistani military and interior officials and U.S. envoys Steve Witkoff and Jared Kushner headed to the city. Reports said the first contacts would run through separate Pakistani-mediated meetings, with a possible direct U.S.-Iran encounter on Sunday if the opening round succeeded, while Tehran publicly denied that direct talks were planned.",
+    "lat": 33.6844,
+    "lng": 73.0479,
+    "tid": "islamabad-lockdown-indirect-us-iran-talks-apr25",
+    "tn": "Islamabad mediation talks",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "STRATEGIC — Pakistan mediation becomes the main diplomatic channel, though the sides still dispute whether direct talks will occur",
+    "dc": "dmg-strategic",
+    "sources": [
+      {
+        "name": "Times of Israel liveblog",
+        "url": "https://www.timesofisrael.com/liveblog-april-25-2026/"
+      },
+      {
+        "name": "i Paper liveblog",
+        "url": "https://inews.co.uk/news/trump-orders-navy-to-shoot-and-kill-boats-in-strait-of-hormuz-4376600"
+      },
+      {
+        "name": "Reuters Iran latest",
+        "url": "https://www.reuters.com/world/iran/"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-25",
+    "time": "morning",
+    "side": "israel",
+    "title": "Israel strikes Hezbollah rocket launchers north of Lebanon security zone",
+    "detail": "The Israeli Air Force said it struck Hezbollah rocket launchers overnight in Deir ez-Zahrani, Kfar Reman and Sammaaiyeh, north of Israel's forward defense line in southern Lebanon, saying the launchers posed a threat to troops and civilians. The strikes came alongside renewed IDF warnings for Lebanese civilians not to return south toward the Litani-area villages despite the extended ceasefire.",
+    "lat": 33.42,
+    "lng": 35.48,
+    "tid": "israel-strikes-hezbollah-launchers-south-lebanon-apr25",
+    "tn": "Southern Lebanon launcher sites",
+    "dmg": 10,
+    "cas": 0,
+    "dl": "MODERATE — Israeli airstrikes continue inside Lebanon despite the ceasefire extension, keeping the northern front unstable",
+    "dc": "dmg-moderate",
+    "sources": [
+      {
+        "name": "Times of Israel liveblog",
+        "url": "https://www.timesofisrael.com/liveblog-april-25-2026/"
+      },
+      {
+        "name": "i Paper liveblog",
+        "url": "https://inews.co.uk/news/trump-orders-navy-to-shoot-and-kill-boats-in-strait-of-hormuz-4376600"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-25",
+    "time": "morning",
+    "side": "iran",
+    "title": "Tehran international airport resumes commercial flights for first time since war began",
+    "detail": "Iranian state television reported that commercial flights resumed from Imam Khomeini International Airport in Tehran for the first time since the U.S.-Israel conflict began about two months earlier, with departures to Istanbul, Muscat and Medina. The limited reopening followed Iran's partial airspace reopening earlier in April and suggested a cautious move toward civilian normalization under the ceasefire.",
+    "lat": 35.4161,
+    "lng": 51.1522,
+    "tid": "tehran-imam-khomeini-airport-flights-resume-apr25",
+    "tn": "Imam Khomeini International Airport",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "STRATEGIC — Limited flight restoration marks a tentative normalization step after nearly two months of wartime disruption",
+    "dc": "dmg-strategic",
+    "sources": [
+      {
+        "name": "Times of Israel liveblog",
+        "url": "https://www.timesofisrael.com/liveblog-april-25-2026/"
+      },
+      {
+        "name": "i Paper liveblog",
+        "url": "https://inews.co.uk/news/trump-orders-navy-to-shoot-and-kill-boats-in-strait-of-hormuz-4376600"
+      }
+    ]
   }
 ]
